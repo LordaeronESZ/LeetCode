@@ -1,0 +1,4 @@
+﻿  三数之和.cpp
+C:\Users\16675\source\Repos\LeetCode\0015三数之和\三数之和.cpp(12,22): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\16675\source\Repos\LeetCode\0015三数之和\三数之和.cpp(47,21): warning C4018: “<”: 有符号/无符号不匹配
+  0015三数之和.vcxproj -> C:\Users\16675\source\Repos\LeetCode\Debug\0015三数之和.exe

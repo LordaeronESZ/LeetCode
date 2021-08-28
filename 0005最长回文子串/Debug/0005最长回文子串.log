@@ -1,0 +1,8 @@
+﻿  最长回文子串.cpp
+C:\Users\16675\source\Repos\LeetCode\0005最长回文子串\最长回文子串.cpp(13,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\16675\source\Repos\LeetCode\0005最长回文子串\最长回文子串.cpp(13,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\16675\source\Repos\LeetCode\0005最长回文子串\最长回文子串.cpp(14,36): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\16675\source\Repos\LeetCode\0005最长回文子串\最长回文子串.cpp(19,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\16675\source\Repos\LeetCode\0005最长回文子串\最长回文子串.cpp(19,36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\16675\source\Repos\LeetCode\0005最长回文子串\最长回文子串.cpp(21,32): warning C4018: “<=”: 有符号/无符号不匹配
+  0005最长回文子串.vcxproj -> C:\Users\16675\source\Repos\LeetCode\Debug\0005最长回文子串.exe
