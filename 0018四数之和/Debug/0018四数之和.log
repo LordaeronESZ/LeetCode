@@ -1,6 +1,0 @@
-﻿  四数之和.cpp
-C:\Users\16675\source\Repos\LeetCode\0018四数之和\四数之和.cpp(12,28): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\16675\source\Repos\LeetCode\0018四数之和\四数之和.cpp(16,36): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\16675\source\Repos\LeetCode\0018四数之和\四数之和.cpp(47,24): warning C4018: “<”: 有符号/无符号不匹配
-C:\Users\16675\source\Repos\LeetCode\0018四数之和\四数之和.cpp(49,28): warning C4018: “<”: 有符号/无符号不匹配
-  0018四数之和.vcxproj -> C:\Users\16675\source\Repos\LeetCode\Debug\0018四数之和.exe
