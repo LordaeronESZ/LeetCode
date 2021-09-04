@@ -1,0 +1,4 @@
+﻿  删除有序数组中的重复项.cpp
+D:\[proj]Visual Studio\LeetCode\0026删除有序数组中的重复项\删除有序数组中的重复项.cpp(8,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\[proj]Visual Studio\LeetCode\0026删除有序数组中的重复项\删除有序数组中的重复项.cpp(20,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  0026删除有序数组中的重复项.vcxproj -> D:\[proj]Visual Studio\LeetCode\x64\Debug\0026删除有序数组中的重复项.exe
