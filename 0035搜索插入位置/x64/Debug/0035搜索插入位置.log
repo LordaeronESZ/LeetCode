@@ -1,3 +1,4 @@
 ﻿  搜索插入位置.cpp
 D:\[proj]Visual Studio\LeetCode\0035搜索插入位置\搜索插入位置.cpp(12,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  LINK : 没有找到 D:\[proj]Visual Studio\LeetCode\x64\Debug\0035搜索插入位置.exe 或上一个增量链接没有生成它；正在执行完全链接
   0035搜索插入位置.vcxproj -> D:\[proj]Visual Studio\LeetCode\x64\Debug\0035搜索插入位置.exe

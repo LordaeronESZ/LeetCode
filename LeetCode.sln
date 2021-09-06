@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0058最后一个单词的�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0066加一", "0066加一\0066加一.vcxproj", "{E880D529-ACB7-4F91-935B-C37D65BC68AE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0067二进制求和", "0067二进制求和\0067二进制求和.vcxproj", "{5B45541D-55A4-42D3-AB9C-4BD0FCA2BA40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{E880D529-ACB7-4F91-935B-C37D65BC68AE}.Release|x64.Build.0 = Release|x64
 		{E880D529-ACB7-4F91-935B-C37D65BC68AE}.Release|x86.ActiveCfg = Release|Win32
 		{E880D529-ACB7-4F91-935B-C37D65BC68AE}.Release|x86.Build.0 = Release|Win32
+		{5B45541D-55A4-42D3-AB9C-4BD0FCA2BA40}.Debug|x64.ActiveCfg = Debug|x64
+		{5B45541D-55A4-42D3-AB9C-4BD0FCA2BA40}.Debug|x64.Build.0 = Debug|x64
+		{5B45541D-55A4-42D3-AB9C-4BD0FCA2BA40}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B45541D-55A4-42D3-AB9C-4BD0FCA2BA40}.Debug|x86.Build.0 = Debug|Win32
+		{5B45541D-55A4-42D3-AB9C-4BD0FCA2BA40}.Release|x64.ActiveCfg = Release|x64
+		{5B45541D-55A4-42D3-AB9C-4BD0FCA2BA40}.Release|x64.Build.0 = Release|x64
+		{5B45541D-55A4-42D3-AB9C-4BD0FCA2BA40}.Release|x86.ActiveCfg = Release|Win32
+		{5B45541D-55A4-42D3-AB9C-4BD0FCA2BA40}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
