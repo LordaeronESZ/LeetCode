@@ -16,7 +16,6 @@ public:
                 r = mid;
         }
         return l;
-        
     }
 };
 int main() {
