@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0019删除链表的倒数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0022括号生成", "0022括号生成\0022括号生成.vcxproj", "{84987B91-55B8-4832-9529-E2574BD95E7E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0029两数相除", "0029两数相除\0029两数相除.vcxproj", "{56A4CF3C-23B9-49F8-991B-EB4432F5EF0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{84987B91-55B8-4832-9529-E2574BD95E7E}.Release|x64.Build.0 = Release|x64
 		{84987B91-55B8-4832-9529-E2574BD95E7E}.Release|x86.ActiveCfg = Release|Win32
 		{84987B91-55B8-4832-9529-E2574BD95E7E}.Release|x86.Build.0 = Release|Win32
+		{56A4CF3C-23B9-49F8-991B-EB4432F5EF0A}.Debug|x64.ActiveCfg = Debug|x64
+		{56A4CF3C-23B9-49F8-991B-EB4432F5EF0A}.Debug|x64.Build.0 = Debug|x64
+		{56A4CF3C-23B9-49F8-991B-EB4432F5EF0A}.Debug|x86.ActiveCfg = Debug|Win32
+		{56A4CF3C-23B9-49F8-991B-EB4432F5EF0A}.Debug|x86.Build.0 = Debug|Win32
+		{56A4CF3C-23B9-49F8-991B-EB4432F5EF0A}.Release|x64.ActiveCfg = Release|x64
+		{56A4CF3C-23B9-49F8-991B-EB4432F5EF0A}.Release|x64.Build.0 = Release|x64
+		{56A4CF3C-23B9-49F8-991B-EB4432F5EF0A}.Release|x86.ActiveCfg = Release|Win32
+		{56A4CF3C-23B9-49F8-991B-EB4432F5EF0A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
