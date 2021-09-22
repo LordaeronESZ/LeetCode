@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0043字符串相乘", "0043
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0046全排列", "0046全排列\0046全排列.vcxproj", "{C9E66224-14FB-486A-9CCB-CD5F7F336239}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0047全排列II", "0047全排列II\0047全排列II.vcxproj", "{B0F850C4-7A32-4CFB-B4A1-B4CB7172B4C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -411,6 +413,14 @@ Global
 		{C9E66224-14FB-486A-9CCB-CD5F7F336239}.Release|x64.Build.0 = Release|x64
 		{C9E66224-14FB-486A-9CCB-CD5F7F336239}.Release|x86.ActiveCfg = Release|Win32
 		{C9E66224-14FB-486A-9CCB-CD5F7F336239}.Release|x86.Build.0 = Release|Win32
+		{B0F850C4-7A32-4CFB-B4A1-B4CB7172B4C4}.Debug|x64.ActiveCfg = Debug|x64
+		{B0F850C4-7A32-4CFB-B4A1-B4CB7172B4C4}.Debug|x64.Build.0 = Debug|x64
+		{B0F850C4-7A32-4CFB-B4A1-B4CB7172B4C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0F850C4-7A32-4CFB-B4A1-B4CB7172B4C4}.Debug|x86.Build.0 = Debug|Win32
+		{B0F850C4-7A32-4CFB-B4A1-B4CB7172B4C4}.Release|x64.ActiveCfg = Release|x64
+		{B0F850C4-7A32-4CFB-B4A1-B4CB7172B4C4}.Release|x64.Build.0 = Release|x64
+		{B0F850C4-7A32-4CFB-B4A1-B4CB7172B4C4}.Release|x86.ActiveCfg = Release|Win32
+		{B0F850C4-7A32-4CFB-B4A1-B4CB7172B4C4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
