@@ -5,28 +5,27 @@ using namespace std;
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        auto it = intervals.begin();
         sort(intervals.begin(), intervals.end());
-        vector<vector<int>> res;
-        while (it < intervals.end() - 1) {
-            if (it->back() >= (it + 1)->back()) {
-                intervals.erase(it + 1);
-            }
-            else if (it->back() >= (it + 1)->front()) {
-                it->back() = (it + 1)->back();
-                intervals.erase(it + 1);
-            }
+        vector<vector<int>> res = { intervals.front() };
+        for (auto it = intervals.begin() + 1; it < intervals.end(); it++) {
+            //¸²¸Ç
+            if (res.back().back() >= it->back())
+                continue;
+            //ºÏ²¢
+            else if (res.back().back() >= it->front())
+                res.back().back() = it->back();
             else
-                it++;
+                res.push_back(*it);
         }
-        return intervals;
+        return res;
     }
 };
 int main() {
     Solution S;
     vector<vector<int>> intervals = { {1,3},{2,6},{6,10},{11,18} };
     vector<vector<int>> intervals2 = { {1,4},{2,3} };
-    auto res = S.merge(intervals);
+    vector<vector<int>> intervals3 = { {1,5},{2,7} };
+    auto res = S.merge(intervals3);
     for (auto r : res)
         cout << r.front() << " " << r.back() << '\t';
     return 0;
