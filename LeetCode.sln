@@ -111,6 +111,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0061旋转链表", "0061旋
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0062不同路径", "0062不同路径\0062不同路径.vcxproj", "{0D5ADBF9-2E67-470E-908B-67CDBF3FDE11}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0063不同路径II", "0063不同路径II\0063不同路径II.vcxproj", "{CAC524FE-71CB-4044-9905-6DF838D1980F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0064最小路径和", "0064最小路径和\0064最小路径和.vcxproj", "{DDF1941E-220A-4FC9-ABB3-9828FD415728}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -551,6 +555,22 @@ Global
 		{0D5ADBF9-2E67-470E-908B-67CDBF3FDE11}.Release|x64.Build.0 = Release|x64
 		{0D5ADBF9-2E67-470E-908B-67CDBF3FDE11}.Release|x86.ActiveCfg = Release|Win32
 		{0D5ADBF9-2E67-470E-908B-67CDBF3FDE11}.Release|x86.Build.0 = Release|Win32
+		{CAC524FE-71CB-4044-9905-6DF838D1980F}.Debug|x64.ActiveCfg = Debug|x64
+		{CAC524FE-71CB-4044-9905-6DF838D1980F}.Debug|x64.Build.0 = Debug|x64
+		{CAC524FE-71CB-4044-9905-6DF838D1980F}.Debug|x86.ActiveCfg = Debug|Win32
+		{CAC524FE-71CB-4044-9905-6DF838D1980F}.Debug|x86.Build.0 = Debug|Win32
+		{CAC524FE-71CB-4044-9905-6DF838D1980F}.Release|x64.ActiveCfg = Release|x64
+		{CAC524FE-71CB-4044-9905-6DF838D1980F}.Release|x64.Build.0 = Release|x64
+		{CAC524FE-71CB-4044-9905-6DF838D1980F}.Release|x86.ActiveCfg = Release|Win32
+		{CAC524FE-71CB-4044-9905-6DF838D1980F}.Release|x86.Build.0 = Release|Win32
+		{DDF1941E-220A-4FC9-ABB3-9828FD415728}.Debug|x64.ActiveCfg = Debug|x64
+		{DDF1941E-220A-4FC9-ABB3-9828FD415728}.Debug|x64.Build.0 = Debug|x64
+		{DDF1941E-220A-4FC9-ABB3-9828FD415728}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDF1941E-220A-4FC9-ABB3-9828FD415728}.Debug|x86.Build.0 = Debug|Win32
+		{DDF1941E-220A-4FC9-ABB3-9828FD415728}.Release|x64.ActiveCfg = Release|x64
+		{DDF1941E-220A-4FC9-ABB3-9828FD415728}.Release|x64.Build.0 = Release|x64
+		{DDF1941E-220A-4FC9-ABB3-9828FD415728}.Release|x86.ActiveCfg = Release|Win32
+		{DDF1941E-220A-4FC9-ABB3-9828FD415728}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
