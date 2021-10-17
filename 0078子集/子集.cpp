@@ -24,9 +24,9 @@ public:
 };
 int main() {
     Solution S;
-    vector<int> nums = { 1,2,3,4 };
+    vector<int> nums = { 1,2,3 };
     vector<int> nums2 = { 0 };
-    auto res = S.subsets(nums2);
+    auto res = S.subsets(nums);
     for (auto const& re : res) {
         for (auto const& r : re)
             cout << r << " ";
