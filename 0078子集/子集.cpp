@@ -11,7 +11,7 @@ public:
             if (it == nums.cbegin())
                 continue;
             else {
-                int size = res.size();
+                size_t size = res.size();
                 for (size_t i = 1; i < size - 1; i++) {
                     vector<int> temp_v = res[i];
                     temp_v.emplace_back(*it);
