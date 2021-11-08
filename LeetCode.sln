@@ -231,6 +231,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0105从前序与中序遍�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0598范围求和II", "0598范围求和II\0598范围求和II.vcxproj", "{66F71ADE-D8FB-4565-A3C0-C4E95B97E4AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0125验证回文串", "0125验证回文串\0125验证回文串.vcxproj", "{FC66A773-3645-491B-BA61-ED4B2377179C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1151,6 +1153,14 @@ Global
 		{66F71ADE-D8FB-4565-A3C0-C4E95B97E4AF}.Release|x64.Build.0 = Release|x64
 		{66F71ADE-D8FB-4565-A3C0-C4E95B97E4AF}.Release|x86.ActiveCfg = Release|Win32
 		{66F71ADE-D8FB-4565-A3C0-C4E95B97E4AF}.Release|x86.Build.0 = Release|Win32
+		{FC66A773-3645-491B-BA61-ED4B2377179C}.Debug|x64.ActiveCfg = Debug|x64
+		{FC66A773-3645-491B-BA61-ED4B2377179C}.Debug|x64.Build.0 = Debug|x64
+		{FC66A773-3645-491B-BA61-ED4B2377179C}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC66A773-3645-491B-BA61-ED4B2377179C}.Debug|x86.Build.0 = Debug|Win32
+		{FC66A773-3645-491B-BA61-ED4B2377179C}.Release|x64.ActiveCfg = Release|x64
+		{FC66A773-3645-491B-BA61-ED4B2377179C}.Release|x64.Build.0 = Release|x64
+		{FC66A773-3645-491B-BA61-ED4B2377179C}.Release|x86.ActiveCfg = Release|Win32
+		{FC66A773-3645-491B-BA61-ED4B2377179C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
