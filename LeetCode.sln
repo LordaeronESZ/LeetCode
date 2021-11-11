@@ -237,6 +237,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0495提莫攻击", "0495提
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0128最长连续序列", "0128最长连续序列\0128最长连续序列.vcxproj", "{6B85CF40-154C-4BDF-85BD-F322D5D57C89}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0139单词拆分", "0139单词拆分\0139单词拆分.vcxproj", "{3E0FAB4D-645F-4B52-8629-05ED7E44016C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1181,6 +1183,14 @@ Global
 		{6B85CF40-154C-4BDF-85BD-F322D5D57C89}.Release|x64.Build.0 = Release|x64
 		{6B85CF40-154C-4BDF-85BD-F322D5D57C89}.Release|x86.ActiveCfg = Release|Win32
 		{6B85CF40-154C-4BDF-85BD-F322D5D57C89}.Release|x86.Build.0 = Release|Win32
+		{3E0FAB4D-645F-4B52-8629-05ED7E44016C}.Debug|x64.ActiveCfg = Debug|x64
+		{3E0FAB4D-645F-4B52-8629-05ED7E44016C}.Debug|x64.Build.0 = Debug|x64
+		{3E0FAB4D-645F-4B52-8629-05ED7E44016C}.Debug|x86.ActiveCfg = Debug|Win32
+		{3E0FAB4D-645F-4B52-8629-05ED7E44016C}.Debug|x86.Build.0 = Debug|Win32
+		{3E0FAB4D-645F-4B52-8629-05ED7E44016C}.Release|x64.ActiveCfg = Release|x64
+		{3E0FAB4D-645F-4B52-8629-05ED7E44016C}.Release|x64.Build.0 = Release|x64
+		{3E0FAB4D-645F-4B52-8629-05ED7E44016C}.Release|x86.ActiveCfg = Release|Win32
+		{3E0FAB4D-645F-4B52-8629-05ED7E44016C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
