@@ -277,6 +277,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1014最佳观光组合", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0122买卖股票的最佳时机II", "0122买卖股票的最佳时机II\0122买卖股票的最佳时机II.vcxproj", "{1EC9F5EB-2435-4603-9543-6754E45B7938}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0384打乱数组", "0384打乱数组\0384打乱数组.vcxproj", "{F60658C8-9898-443B-BEBF-2F94076F8B71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1381,6 +1383,14 @@ Global
 		{1EC9F5EB-2435-4603-9543-6754E45B7938}.Release|x64.Build.0 = Release|x64
 		{1EC9F5EB-2435-4603-9543-6754E45B7938}.Release|x86.ActiveCfg = Release|Win32
 		{1EC9F5EB-2435-4603-9543-6754E45B7938}.Release|x86.Build.0 = Release|Win32
+		{F60658C8-9898-443B-BEBF-2F94076F8B71}.Debug|x64.ActiveCfg = Debug|x64
+		{F60658C8-9898-443B-BEBF-2F94076F8B71}.Debug|x64.Build.0 = Debug|x64
+		{F60658C8-9898-443B-BEBF-2F94076F8B71}.Debug|x86.ActiveCfg = Debug|Win32
+		{F60658C8-9898-443B-BEBF-2F94076F8B71}.Debug|x86.Build.0 = Debug|Win32
+		{F60658C8-9898-443B-BEBF-2F94076F8B71}.Release|x64.ActiveCfg = Release|x64
+		{F60658C8-9898-443B-BEBF-2F94076F8B71}.Release|x64.Build.0 = Release|x64
+		{F60658C8-9898-443B-BEBF-2F94076F8B71}.Release|x86.ActiveCfg = Release|Win32
+		{F60658C8-9898-443B-BEBF-2F94076F8B71}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
