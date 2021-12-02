@@ -303,6 +303,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1446连续字符", "1446连
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0344反转字符串", "0344反转字符串\0344反转字符串.vcxproj", "{4C07CFB6-289C-4D5D-8EF8-ADC288671710}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0506相对名次", "0506相对名次\0506相对名次.vcxproj", "{DA6AB9A0-409B-4DE9-849F-679F7EA74E43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1511,6 +1513,14 @@ Global
 		{4C07CFB6-289C-4D5D-8EF8-ADC288671710}.Release|x64.Build.0 = Release|x64
 		{4C07CFB6-289C-4D5D-8EF8-ADC288671710}.Release|x86.ActiveCfg = Release|Win32
 		{4C07CFB6-289C-4D5D-8EF8-ADC288671710}.Release|x86.Build.0 = Release|Win32
+		{DA6AB9A0-409B-4DE9-849F-679F7EA74E43}.Debug|x64.ActiveCfg = Debug|x64
+		{DA6AB9A0-409B-4DE9-849F-679F7EA74E43}.Debug|x64.Build.0 = Debug|x64
+		{DA6AB9A0-409B-4DE9-849F-679F7EA74E43}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA6AB9A0-409B-4DE9-849F-679F7EA74E43}.Debug|x86.Build.0 = Debug|Win32
+		{DA6AB9A0-409B-4DE9-849F-679F7EA74E43}.Release|x64.ActiveCfg = Release|x64
+		{DA6AB9A0-409B-4DE9-849F-679F7EA74E43}.Release|x64.Build.0 = Release|x64
+		{DA6AB9A0-409B-4DE9-849F-679F7EA74E43}.Release|x86.ActiveCfg = Release|Win32
+		{DA6AB9A0-409B-4DE9-849F-679F7EA74E43}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
