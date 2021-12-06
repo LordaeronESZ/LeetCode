@@ -311,6 +311,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0383赎金信", "0383赎金
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0372超级次方", "0372超级次方\0372超级次方.vcxproj", "{45B867F1-B3B2-4AD7-BA19-E0796CF3F5B7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1816截断句子", "1816截断句子\1816截断句子.vcxproj", "{2CF2E985-9389-4ABC-A8F2-608B8C7CFD8F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0221最大正方形", "0221最大正方形\0221最大正方形.vcxproj", "{D9A073A2-82A8-4A8F-B18E-099BDAD2AAED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1551,6 +1555,22 @@ Global
 		{45B867F1-B3B2-4AD7-BA19-E0796CF3F5B7}.Release|x64.Build.0 = Release|x64
 		{45B867F1-B3B2-4AD7-BA19-E0796CF3F5B7}.Release|x86.ActiveCfg = Release|Win32
 		{45B867F1-B3B2-4AD7-BA19-E0796CF3F5B7}.Release|x86.Build.0 = Release|Win32
+		{2CF2E985-9389-4ABC-A8F2-608B8C7CFD8F}.Debug|x64.ActiveCfg = Debug|x64
+		{2CF2E985-9389-4ABC-A8F2-608B8C7CFD8F}.Debug|x64.Build.0 = Debug|x64
+		{2CF2E985-9389-4ABC-A8F2-608B8C7CFD8F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2CF2E985-9389-4ABC-A8F2-608B8C7CFD8F}.Debug|x86.Build.0 = Debug|Win32
+		{2CF2E985-9389-4ABC-A8F2-608B8C7CFD8F}.Release|x64.ActiveCfg = Release|x64
+		{2CF2E985-9389-4ABC-A8F2-608B8C7CFD8F}.Release|x64.Build.0 = Release|x64
+		{2CF2E985-9389-4ABC-A8F2-608B8C7CFD8F}.Release|x86.ActiveCfg = Release|Win32
+		{2CF2E985-9389-4ABC-A8F2-608B8C7CFD8F}.Release|x86.Build.0 = Release|Win32
+		{D9A073A2-82A8-4A8F-B18E-099BDAD2AAED}.Debug|x64.ActiveCfg = Debug|x64
+		{D9A073A2-82A8-4A8F-B18E-099BDAD2AAED}.Debug|x64.Build.0 = Debug|x64
+		{D9A073A2-82A8-4A8F-B18E-099BDAD2AAED}.Debug|x86.ActiveCfg = Debug|Win32
+		{D9A073A2-82A8-4A8F-B18E-099BDAD2AAED}.Debug|x86.Build.0 = Debug|Win32
+		{D9A073A2-82A8-4A8F-B18E-099BDAD2AAED}.Release|x64.ActiveCfg = Release|x64
+		{D9A073A2-82A8-4A8F-B18E-099BDAD2AAED}.Release|x64.Build.0 = Release|x64
+		{D9A073A2-82A8-4A8F-B18E-099BDAD2AAED}.Release|x86.ActiveCfg = Release|Win32
+		{D9A073A2-82A8-4A8F-B18E-099BDAD2AAED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
