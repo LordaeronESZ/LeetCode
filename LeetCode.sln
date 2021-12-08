@@ -317,6 +317,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0221最大正方形", "0221
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0131分割回文串", "0131分割回文串\0131分割回文串.vcxproj", "{16BD07A6-F37D-4C99-BAC7-459EFAD8134F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0392判断子序列", "0392判断子序列\0392判断子序列.vcxproj", "{8DFD32D9-B210-4B47-9CF5-CBA03A2D8464}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1581,6 +1583,14 @@ Global
 		{16BD07A6-F37D-4C99-BAC7-459EFAD8134F}.Release|x64.Build.0 = Release|x64
 		{16BD07A6-F37D-4C99-BAC7-459EFAD8134F}.Release|x86.ActiveCfg = Release|Win32
 		{16BD07A6-F37D-4C99-BAC7-459EFAD8134F}.Release|x86.Build.0 = Release|Win32
+		{8DFD32D9-B210-4B47-9CF5-CBA03A2D8464}.Debug|x64.ActiveCfg = Debug|x64
+		{8DFD32D9-B210-4B47-9CF5-CBA03A2D8464}.Debug|x64.Build.0 = Debug|x64
+		{8DFD32D9-B210-4B47-9CF5-CBA03A2D8464}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DFD32D9-B210-4B47-9CF5-CBA03A2D8464}.Debug|x86.Build.0 = Debug|Win32
+		{8DFD32D9-B210-4B47-9CF5-CBA03A2D8464}.Release|x64.ActiveCfg = Release|x64
+		{8DFD32D9-B210-4B47-9CF5-CBA03A2D8464}.Release|x64.Build.0 = Release|x64
+		{8DFD32D9-B210-4B47-9CF5-CBA03A2D8464}.Release|x86.ActiveCfg = Release|Win32
+		{8DFD32D9-B210-4B47-9CF5-CBA03A2D8464}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
