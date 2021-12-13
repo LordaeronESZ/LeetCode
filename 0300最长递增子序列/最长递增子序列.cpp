@@ -4,25 +4,21 @@ using namespace std;
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
-        int res = 1;
-        for (int i = 0; i < nums.size(); i++) {
-            int lastIndex = i, curLength = 1;
-            for (int j = i + 1; j < nums.size(); j++) {
-                if (nums[j] > nums[lastIndex]) {
-                    curLength++;
-                    lastIndex = j;
-                }
-                res = max(res, curLength);
-                if (curLength + nums.size() - j - 1 < res)
-                    break;
+        int maxLength = 1;
+        vector<int> res(nums.size(), 1);
+        for (int i = 1; i < nums.size(); i++) {
+            for (int j = 0; j < i; j++) {
+                if (nums[i] > nums[j])
+                    res[i] = max(res[i], res[j] + 1);
+                maxLength = max(maxLength, res[i]);
             }
         }
-        return res; 
+        return maxLength;
     }
 };
 int main() {
     Solution S;
-    vector<int> nums = { 0,1,0,3,2,3 };
+    vector<int> nums = { 1,3,6,7,9,4,10,5,6 };
     auto res = S.lengthOfLIS(nums);
     cout << res << endl;
     return 0;
