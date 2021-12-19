@@ -339,6 +339,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0279完全平方数", "0279
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1518换酒问题", "1518换酒问题\1518换酒问题.vcxproj", "{43B24E31-4577-4C70-B501-81078DD28CBC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0997找到小镇的法官", "0997找到小镇的法官\0997找到小镇的法官.vcxproj", "{E3648BA6-AEB5-4107-9798-F063AA41447B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1691,6 +1693,14 @@ Global
 		{43B24E31-4577-4C70-B501-81078DD28CBC}.Release|x64.Build.0 = Release|x64
 		{43B24E31-4577-4C70-B501-81078DD28CBC}.Release|x86.ActiveCfg = Release|Win32
 		{43B24E31-4577-4C70-B501-81078DD28CBC}.Release|x86.Build.0 = Release|Win32
+		{E3648BA6-AEB5-4107-9798-F063AA41447B}.Debug|x64.ActiveCfg = Debug|x64
+		{E3648BA6-AEB5-4107-9798-F063AA41447B}.Debug|x64.Build.0 = Debug|x64
+		{E3648BA6-AEB5-4107-9798-F063AA41447B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3648BA6-AEB5-4107-9798-F063AA41447B}.Debug|x86.Build.0 = Debug|Win32
+		{E3648BA6-AEB5-4107-9798-F063AA41447B}.Release|x64.ActiveCfg = Release|x64
+		{E3648BA6-AEB5-4107-9798-F063AA41447B}.Release|x64.Build.0 = Release|x64
+		{E3648BA6-AEB5-4107-9798-F063AA41447B}.Release|x86.ActiveCfg = Release|Win32
+		{E3648BA6-AEB5-4107-9798-F063AA41447B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
