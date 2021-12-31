@@ -355,6 +355,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0825适龄的朋友", "0825
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1995统计特殊四元组", "1995统计特殊四元组\1995统计特殊四元组.vcxproj", "{287C8B74-DDAC-4A67-8EC7-49FABA13193B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0507完美数", "0507完美数\0507完美数.vcxproj", "{4AE37FCA-3DA2-435D-B1D1-DE109A67E1A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1771,6 +1773,14 @@ Global
 		{287C8B74-DDAC-4A67-8EC7-49FABA13193B}.Release|x64.Build.0 = Release|x64
 		{287C8B74-DDAC-4A67-8EC7-49FABA13193B}.Release|x86.ActiveCfg = Release|Win32
 		{287C8B74-DDAC-4A67-8EC7-49FABA13193B}.Release|x86.Build.0 = Release|Win32
+		{4AE37FCA-3DA2-435D-B1D1-DE109A67E1A1}.Debug|x64.ActiveCfg = Debug|x64
+		{4AE37FCA-3DA2-435D-B1D1-DE109A67E1A1}.Debug|x64.Build.0 = Debug|x64
+		{4AE37FCA-3DA2-435D-B1D1-DE109A67E1A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{4AE37FCA-3DA2-435D-B1D1-DE109A67E1A1}.Debug|x86.Build.0 = Debug|Win32
+		{4AE37FCA-3DA2-435D-B1D1-DE109A67E1A1}.Release|x64.ActiveCfg = Release|x64
+		{4AE37FCA-3DA2-435D-B1D1-DE109A67E1A1}.Release|x64.Build.0 = Release|x64
+		{4AE37FCA-3DA2-435D-B1D1-DE109A67E1A1}.Release|x86.ActiveCfg = Release|Win32
+		{4AE37FCA-3DA2-435D-B1D1-DE109A67E1A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
