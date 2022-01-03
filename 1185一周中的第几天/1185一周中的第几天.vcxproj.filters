@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="吃苹果的最大数量.cpp">
+    <ClCompile Include="一周中的第几天.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
