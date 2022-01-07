@@ -363,6 +363,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1576替换所有的问号",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0071简化路径", "0071简化路径\0071简化路径.vcxproj", "{EA7BBF33-A6DD-44D4-A256-F9B7109652EB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1614括号的最大嵌套深度", "1614括号的最大嵌套深度\1614括号的最大嵌套深度.vcxproj", "{65016268-39FE-4A88-8E2D-EC21A79FB530}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1811,6 +1813,14 @@ Global
 		{EA7BBF33-A6DD-44D4-A256-F9B7109652EB}.Release|x64.Build.0 = Release|x64
 		{EA7BBF33-A6DD-44D4-A256-F9B7109652EB}.Release|x86.ActiveCfg = Release|Win32
 		{EA7BBF33-A6DD-44D4-A256-F9B7109652EB}.Release|x86.Build.0 = Release|Win32
+		{65016268-39FE-4A88-8E2D-EC21A79FB530}.Debug|x64.ActiveCfg = Debug|x64
+		{65016268-39FE-4A88-8E2D-EC21A79FB530}.Debug|x64.Build.0 = Debug|x64
+		{65016268-39FE-4A88-8E2D-EC21A79FB530}.Debug|x86.ActiveCfg = Debug|Win32
+		{65016268-39FE-4A88-8E2D-EC21A79FB530}.Debug|x86.Build.0 = Debug|Win32
+		{65016268-39FE-4A88-8E2D-EC21A79FB530}.Release|x64.ActiveCfg = Release|x64
+		{65016268-39FE-4A88-8E2D-EC21A79FB530}.Release|x64.Build.0 = Release|x64
+		{65016268-39FE-4A88-8E2D-EC21A79FB530}.Release|x86.ActiveCfg = Release|Win32
+		{65016268-39FE-4A88-8E2D-EC21A79FB530}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
