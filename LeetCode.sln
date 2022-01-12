@@ -371,6 +371,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1629按键持续时间最�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0306累加数", "0306累加数\0306累加数.vcxproj", "{2BFCA182-ADFA-4229-82EC-78936FBB673B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0334递增的三元子序列", "0334递增的三元子序列\0334递增的三元子序列.vcxproj", "{61616879-E506-4F6A-B8E5-D8E12C02DE40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1851,6 +1853,14 @@ Global
 		{2BFCA182-ADFA-4229-82EC-78936FBB673B}.Release|x64.Build.0 = Release|x64
 		{2BFCA182-ADFA-4229-82EC-78936FBB673B}.Release|x86.ActiveCfg = Release|Win32
 		{2BFCA182-ADFA-4229-82EC-78936FBB673B}.Release|x86.Build.0 = Release|Win32
+		{61616879-E506-4F6A-B8E5-D8E12C02DE40}.Debug|x64.ActiveCfg = Debug|x64
+		{61616879-E506-4F6A-B8E5-D8E12C02DE40}.Debug|x64.Build.0 = Debug|x64
+		{61616879-E506-4F6A-B8E5-D8E12C02DE40}.Debug|x86.ActiveCfg = Debug|Win32
+		{61616879-E506-4F6A-B8E5-D8E12C02DE40}.Debug|x86.Build.0 = Debug|Win32
+		{61616879-E506-4F6A-B8E5-D8E12C02DE40}.Release|x64.ActiveCfg = Release|x64
+		{61616879-E506-4F6A-B8E5-D8E12C02DE40}.Release|x64.Build.0 = Release|x64
+		{61616879-E506-4F6A-B8E5-D8E12C02DE40}.Release|x86.ActiveCfg = Release|Win32
+		{61616879-E506-4F6A-B8E5-D8E12C02DE40}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
