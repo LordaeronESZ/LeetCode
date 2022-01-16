@@ -377,6 +377,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0747至少是其他数字�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0373查找和最小的K对数字", "0373查找和最小的K对数字\0373查找和最小的K对数字.vcxproj", "{C169723F-7FE6-469A-996A-87015C97F89B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1716计算力扣银行的钱", "1716计算力扣银行的钱\1716计算力扣银行的钱.vcxproj", "{0D2C7CE8-A0E5-404E-B907-D59E04653D7E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0382链表随机节点", "0382链表随机节点\0382链表随机节点.vcxproj", "{CF934728-8C4D-4E88-8DE1-42EA0F8D73F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1881,6 +1885,22 @@ Global
 		{C169723F-7FE6-469A-996A-87015C97F89B}.Release|x64.Build.0 = Release|x64
 		{C169723F-7FE6-469A-996A-87015C97F89B}.Release|x86.ActiveCfg = Release|Win32
 		{C169723F-7FE6-469A-996A-87015C97F89B}.Release|x86.Build.0 = Release|Win32
+		{0D2C7CE8-A0E5-404E-B907-D59E04653D7E}.Debug|x64.ActiveCfg = Debug|x64
+		{0D2C7CE8-A0E5-404E-B907-D59E04653D7E}.Debug|x64.Build.0 = Debug|x64
+		{0D2C7CE8-A0E5-404E-B907-D59E04653D7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D2C7CE8-A0E5-404E-B907-D59E04653D7E}.Debug|x86.Build.0 = Debug|Win32
+		{0D2C7CE8-A0E5-404E-B907-D59E04653D7E}.Release|x64.ActiveCfg = Release|x64
+		{0D2C7CE8-A0E5-404E-B907-D59E04653D7E}.Release|x64.Build.0 = Release|x64
+		{0D2C7CE8-A0E5-404E-B907-D59E04653D7E}.Release|x86.ActiveCfg = Release|Win32
+		{0D2C7CE8-A0E5-404E-B907-D59E04653D7E}.Release|x86.Build.0 = Release|Win32
+		{CF934728-8C4D-4E88-8DE1-42EA0F8D73F1}.Debug|x64.ActiveCfg = Debug|x64
+		{CF934728-8C4D-4E88-8DE1-42EA0F8D73F1}.Debug|x64.Build.0 = Debug|x64
+		{CF934728-8C4D-4E88-8DE1-42EA0F8D73F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF934728-8C4D-4E88-8DE1-42EA0F8D73F1}.Debug|x86.Build.0 = Debug|Win32
+		{CF934728-8C4D-4E88-8DE1-42EA0F8D73F1}.Release|x64.ActiveCfg = Release|x64
+		{CF934728-8C4D-4E88-8DE1-42EA0F8D73F1}.Release|x64.Build.0 = Release|x64
+		{CF934728-8C4D-4E88-8DE1-42EA0F8D73F1}.Release|x86.ActiveCfg = Release|Win32
+		{CF934728-8C4D-4E88-8DE1-42EA0F8D73F1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
