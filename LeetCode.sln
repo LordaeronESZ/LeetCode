@@ -387,6 +387,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5194得到目标值的最�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5982解决智力问题", "5982解决智力问题\5982解决智力问题.vcxproj", "{8CC3F228-A287-4E75-AF86-19E0922E5C28}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5983同时运行N台电脑的最长时间", "5983同时运行N台电脑的最长时间\5983同时运行N台电脑的最长时间.vcxproj", "{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1931,6 +1933,14 @@ Global
 		{8CC3F228-A287-4E75-AF86-19E0922E5C28}.Release|x64.Build.0 = Release|x64
 		{8CC3F228-A287-4E75-AF86-19E0922E5C28}.Release|x86.ActiveCfg = Release|Win32
 		{8CC3F228-A287-4E75-AF86-19E0922E5C28}.Release|x86.Build.0 = Release|Win32
+		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Debug|x64.ActiveCfg = Debug|x64
+		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Debug|x64.Build.0 = Debug|x64
+		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Debug|x86.Build.0 = Debug|Win32
+		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Release|x64.ActiveCfg = Release|x64
+		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Release|x64.Build.0 = Release|x64
+		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Release|x86.ActiveCfg = Release|Win32
+		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
