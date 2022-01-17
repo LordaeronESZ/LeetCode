@@ -389,6 +389,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5982解决智力问题", "5
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5983同时运行N台电脑的最长时间", "5983同时运行N台电脑的最长时间\5983同时运行N台电脑的最长时间.vcxproj", "{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1220统计元音字母序列的数目", "1220统计元音字母序列的数目\1220统计元音字母序列的数目.vcxproj", "{59657C34-A624-4AA5-8583-D9AC9A308639}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1941,6 +1943,14 @@ Global
 		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Release|x64.Build.0 = Release|x64
 		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Release|x86.ActiveCfg = Release|Win32
 		{CEE1F8BB-4FA0-45A2-B144-DDFD3CE69485}.Release|x86.Build.0 = Release|Win32
+		{59657C34-A624-4AA5-8583-D9AC9A308639}.Debug|x64.ActiveCfg = Debug|x64
+		{59657C34-A624-4AA5-8583-D9AC9A308639}.Debug|x64.Build.0 = Debug|x64
+		{59657C34-A624-4AA5-8583-D9AC9A308639}.Debug|x86.ActiveCfg = Debug|Win32
+		{59657C34-A624-4AA5-8583-D9AC9A308639}.Debug|x86.Build.0 = Debug|Win32
+		{59657C34-A624-4AA5-8583-D9AC9A308639}.Release|x64.ActiveCfg = Release|x64
+		{59657C34-A624-4AA5-8583-D9AC9A308639}.Release|x64.Build.0 = Release|x64
+		{59657C34-A624-4AA5-8583-D9AC9A308639}.Release|x86.ActiveCfg = Release|Win32
+		{59657C34-A624-4AA5-8583-D9AC9A308639}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
