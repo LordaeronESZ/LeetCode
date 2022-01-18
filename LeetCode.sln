@@ -391,6 +391,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5983同时运行N台电脑�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1220统计元音字母序列的数目", "1220统计元音字母序列的数目\1220统计元音字母序列的数目.vcxproj", "{59657C34-A624-4AA5-8583-D9AC9A308639}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0539最小时间差", "0539最小时间差\0539最小时间差.vcxproj", "{FFD310EE-0B89-455E-9390-101DD85AA662}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1951,6 +1953,14 @@ Global
 		{59657C34-A624-4AA5-8583-D9AC9A308639}.Release|x64.Build.0 = Release|x64
 		{59657C34-A624-4AA5-8583-D9AC9A308639}.Release|x86.ActiveCfg = Release|Win32
 		{59657C34-A624-4AA5-8583-D9AC9A308639}.Release|x86.Build.0 = Release|Win32
+		{FFD310EE-0B89-455E-9390-101DD85AA662}.Debug|x64.ActiveCfg = Debug|x64
+		{FFD310EE-0B89-455E-9390-101DD85AA662}.Debug|x64.Build.0 = Debug|x64
+		{FFD310EE-0B89-455E-9390-101DD85AA662}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFD310EE-0B89-455E-9390-101DD85AA662}.Debug|x86.Build.0 = Debug|Win32
+		{FFD310EE-0B89-455E-9390-101DD85AA662}.Release|x64.ActiveCfg = Release|x64
+		{FFD310EE-0B89-455E-9390-101DD85AA662}.Release|x64.Build.0 = Release|x64
+		{FFD310EE-0B89-455E-9390-101DD85AA662}.Release|x86.ActiveCfg = Release|Win32
+		{FFD310EE-0B89-455E-9390-101DD85AA662}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
