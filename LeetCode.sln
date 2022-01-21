@@ -397,6 +397,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0219存在重复元素II", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2029石子游戏IX", "2029石子游戏IX\2029石子游戏IX.vcxproj", "{3A824752-8CBA-4194-B84B-A71B0C40A130}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1345跳跃游戏IV", "1345跳跃游戏IV\1345跳跃游戏IV.vcxproj", "{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1981,6 +1983,14 @@ Global
 		{3A824752-8CBA-4194-B84B-A71B0C40A130}.Release|x64.Build.0 = Release|x64
 		{3A824752-8CBA-4194-B84B-A71B0C40A130}.Release|x86.ActiveCfg = Release|Win32
 		{3A824752-8CBA-4194-B84B-A71B0C40A130}.Release|x86.Build.0 = Release|Win32
+		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Debug|x64.ActiveCfg = Debug|x64
+		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Debug|x64.Build.0 = Debug|x64
+		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Debug|x86.ActiveCfg = Debug|Win32
+		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Debug|x86.Build.0 = Debug|Win32
+		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Release|x64.ActiveCfg = Release|x64
+		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Release|x64.Build.0 = Release|x64
+		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Release|x86.ActiveCfg = Release|Win32
+		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
