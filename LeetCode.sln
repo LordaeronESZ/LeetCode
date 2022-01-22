@@ -399,6 +399,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2029石子游戏IX", "2029�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1345跳跃游戏IV", "1345跳跃游戏IV\1345跳跃游戏IV.vcxproj", "{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1332删除回文子序列", "1332删除回文子序列\1332删除回文子序列.vcxproj", "{F177AA28-E85D-4610-89AF-1C1781351170}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1991,6 +1993,14 @@ Global
 		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Release|x64.Build.0 = Release|x64
 		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Release|x86.ActiveCfg = Release|Win32
 		{6216ED1A-A9D3-468D-AF0C-8400C3A85D43}.Release|x86.Build.0 = Release|Win32
+		{F177AA28-E85D-4610-89AF-1C1781351170}.Debug|x64.ActiveCfg = Debug|x64
+		{F177AA28-E85D-4610-89AF-1C1781351170}.Debug|x64.Build.0 = Debug|x64
+		{F177AA28-E85D-4610-89AF-1C1781351170}.Debug|x86.ActiveCfg = Debug|Win32
+		{F177AA28-E85D-4610-89AF-1C1781351170}.Debug|x86.Build.0 = Debug|Win32
+		{F177AA28-E85D-4610-89AF-1C1781351170}.Release|x64.ActiveCfg = Release|x64
+		{F177AA28-E85D-4610-89AF-1C1781351170}.Release|x64.Build.0 = Release|x64
+		{F177AA28-E85D-4610-89AF-1C1781351170}.Release|x86.ActiveCfg = Release|Win32
+		{F177AA28-E85D-4610-89AF-1C1781351170}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
