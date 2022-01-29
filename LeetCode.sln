@@ -421,6 +421,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0733图像渲染", "0733图
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1996游戏中弱角色的数量", "1996游戏中弱角色的数量\1996游戏中弱角色的数量.vcxproj", "{3A121F4D-F851-44E3-A580-B6DF419F9BFC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1765地图中的最高点", "1765地图中的最高点\1765地图中的最高点.vcxproj", "{02DDF111-EFBB-4C18-9BD4-6737141417BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2101,6 +2103,14 @@ Global
 		{3A121F4D-F851-44E3-A580-B6DF419F9BFC}.Release|x64.Build.0 = Release|x64
 		{3A121F4D-F851-44E3-A580-B6DF419F9BFC}.Release|x86.ActiveCfg = Release|Win32
 		{3A121F4D-F851-44E3-A580-B6DF419F9BFC}.Release|x86.Build.0 = Release|Win32
+		{02DDF111-EFBB-4C18-9BD4-6737141417BB}.Debug|x64.ActiveCfg = Debug|x64
+		{02DDF111-EFBB-4C18-9BD4-6737141417BB}.Debug|x64.Build.0 = Debug|x64
+		{02DDF111-EFBB-4C18-9BD4-6737141417BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{02DDF111-EFBB-4C18-9BD4-6737141417BB}.Debug|x86.Build.0 = Debug|Win32
+		{02DDF111-EFBB-4C18-9BD4-6737141417BB}.Release|x64.ActiveCfg = Release|x64
+		{02DDF111-EFBB-4C18-9BD4-6737141417BB}.Release|x64.Build.0 = Release|x64
+		{02DDF111-EFBB-4C18-9BD4-6737141417BB}.Release|x86.ActiveCfg = Release|Win32
+		{02DDF111-EFBB-4C18-9BD4-6737141417BB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
