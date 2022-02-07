@@ -445,6 +445,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1219黄金矿工", "1219黄
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1748唯一元素的和", "1748唯一元素的和\1748唯一元素的和.vcxproj", "{580D09D6-A014-4B19-BC3B-A4BE123CB5F5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1405最长快乐字符串", "1405最长快乐字符串\1405最长快乐字符串.vcxproj", "{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2221,6 +2223,14 @@ Global
 		{580D09D6-A014-4B19-BC3B-A4BE123CB5F5}.Release|x64.Build.0 = Release|x64
 		{580D09D6-A014-4B19-BC3B-A4BE123CB5F5}.Release|x86.ActiveCfg = Release|Win32
 		{580D09D6-A014-4B19-BC3B-A4BE123CB5F5}.Release|x86.Build.0 = Release|Win32
+		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Debug|x64.ActiveCfg = Debug|x64
+		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Debug|x64.Build.0 = Debug|x64
+		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Debug|x86.Build.0 = Debug|Win32
+		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Release|x64.ActiveCfg = Release|x64
+		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Release|x64.Build.0 = Release|x64
+		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Release|x86.ActiveCfg = Release|Win32
+		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
