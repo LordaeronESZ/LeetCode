@@ -447,6 +447,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1748唯一元素的和", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1405最长快乐字符串", "1405最长快乐字符串\1405最长快乐字符串.vcxproj", "{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0238除自身以外数组的乘积", "0238除自身以外数组的乘积\0238除自身以外数组的乘积.vcxproj", "{0116B9B1-560B-45D9-8C74-89EB5B2A0BE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2231,6 +2233,14 @@ Global
 		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Release|x64.Build.0 = Release|x64
 		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Release|x86.ActiveCfg = Release|Win32
 		{9BB14DCD-2C62-4D5D-AA59-D53414A6A4B7}.Release|x86.Build.0 = Release|Win32
+		{0116B9B1-560B-45D9-8C74-89EB5B2A0BE8}.Debug|x64.ActiveCfg = Debug|x64
+		{0116B9B1-560B-45D9-8C74-89EB5B2A0BE8}.Debug|x64.Build.0 = Debug|x64
+		{0116B9B1-560B-45D9-8C74-89EB5B2A0BE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{0116B9B1-560B-45D9-8C74-89EB5B2A0BE8}.Debug|x86.Build.0 = Debug|Win32
+		{0116B9B1-560B-45D9-8C74-89EB5B2A0BE8}.Release|x64.ActiveCfg = Release|x64
+		{0116B9B1-560B-45D9-8C74-89EB5B2A0BE8}.Release|x64.Build.0 = Release|x64
+		{0116B9B1-560B-45D9-8C74-89EB5B2A0BE8}.Release|x86.ActiveCfg = Release|Win32
+		{0116B9B1-560B-45D9-8C74-89EB5B2A0BE8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
