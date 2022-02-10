@@ -451,6 +451,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0238除自身以外数组�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2006差的绝对值为k的数对数目", "2006差的绝对值为k的数对数目\2006差的绝对值为k的数对数目.vcxproj", "{A697171D-F6DB-46B4-8840-2F5D2E969C5C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1447最简分数", "1447最简分数\1447最简分数.vcxproj", "{972DB9FE-A377-4A39-8D99-40C8DF4592D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2251,6 +2253,14 @@ Global
 		{A697171D-F6DB-46B4-8840-2F5D2E969C5C}.Release|x64.Build.0 = Release|x64
 		{A697171D-F6DB-46B4-8840-2F5D2E969C5C}.Release|x86.ActiveCfg = Release|Win32
 		{A697171D-F6DB-46B4-8840-2F5D2E969C5C}.Release|x86.Build.0 = Release|Win32
+		{972DB9FE-A377-4A39-8D99-40C8DF4592D8}.Debug|x64.ActiveCfg = Debug|x64
+		{972DB9FE-A377-4A39-8D99-40C8DF4592D8}.Debug|x64.Build.0 = Debug|x64
+		{972DB9FE-A377-4A39-8D99-40C8DF4592D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{972DB9FE-A377-4A39-8D99-40C8DF4592D8}.Debug|x86.Build.0 = Debug|Win32
+		{972DB9FE-A377-4A39-8D99-40C8DF4592D8}.Release|x64.ActiveCfg = Release|x64
+		{972DB9FE-A377-4A39-8D99-40C8DF4592D8}.Release|x64.Build.0 = Release|x64
+		{972DB9FE-A377-4A39-8D99-40C8DF4592D8}.Release|x86.ActiveCfg = Release|Win32
+		{972DB9FE-A377-4A39-8D99-40C8DF4592D8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
