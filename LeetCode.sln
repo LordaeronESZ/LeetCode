@@ -457,6 +457,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1984学生分数的最小�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0215数组中第k个最大元素", "0215数组中第k个最大元素\0215数组中第k个最大元素.vcxproj", "{F96C2CEA-407E-4212-BF8A-F475ADBD1090}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1020飞地的数量", "1020飞地的数量\1020飞地的数量.vcxproj", "{68A2D043-31ED-4192-88DF-D73AEF312A0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2281,6 +2283,14 @@ Global
 		{F96C2CEA-407E-4212-BF8A-F475ADBD1090}.Release|x64.Build.0 = Release|x64
 		{F96C2CEA-407E-4212-BF8A-F475ADBD1090}.Release|x86.ActiveCfg = Release|Win32
 		{F96C2CEA-407E-4212-BF8A-F475ADBD1090}.Release|x86.Build.0 = Release|Win32
+		{68A2D043-31ED-4192-88DF-D73AEF312A0D}.Debug|x64.ActiveCfg = Debug|x64
+		{68A2D043-31ED-4192-88DF-D73AEF312A0D}.Debug|x64.Build.0 = Debug|x64
+		{68A2D043-31ED-4192-88DF-D73AEF312A0D}.Debug|x86.ActiveCfg = Debug|Win32
+		{68A2D043-31ED-4192-88DF-D73AEF312A0D}.Debug|x86.Build.0 = Debug|Win32
+		{68A2D043-31ED-4192-88DF-D73AEF312A0D}.Release|x64.ActiveCfg = Release|x64
+		{68A2D043-31ED-4192-88DF-D73AEF312A0D}.Release|x64.Build.0 = Release|x64
+		{68A2D043-31ED-4192-88DF-D73AEF312A0D}.Release|x86.ActiveCfg = Release|Win32
+		{68A2D043-31ED-4192-88DF-D73AEF312A0D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
