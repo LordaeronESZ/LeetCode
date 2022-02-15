@@ -465,6 +465,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0560和为k的子数组", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0540有序数组中的元素", "0540有序数组中的元素\0540有序数组中的元素.vcxproj", "{3D4723A5-248E-4B10-97A9-B6E1DDB9DF71}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1380矩阵中的幸运数", "1380矩阵1中的幸运数\1380矩阵1中的幸运数.vcxproj", "{F3D409F8-610C-4F60-A4D0-E08A7B35216A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2321,6 +2323,14 @@ Global
 		{3D4723A5-248E-4B10-97A9-B6E1DDB9DF71}.Release|x64.Build.0 = Release|x64
 		{3D4723A5-248E-4B10-97A9-B6E1DDB9DF71}.Release|x86.ActiveCfg = Release|Win32
 		{3D4723A5-248E-4B10-97A9-B6E1DDB9DF71}.Release|x86.Build.0 = Release|Win32
+		{F3D409F8-610C-4F60-A4D0-E08A7B35216A}.Debug|x64.ActiveCfg = Debug|x64
+		{F3D409F8-610C-4F60-A4D0-E08A7B35216A}.Debug|x64.Build.0 = Debug|x64
+		{F3D409F8-610C-4F60-A4D0-E08A7B35216A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3D409F8-610C-4F60-A4D0-E08A7B35216A}.Debug|x86.Build.0 = Debug|Win32
+		{F3D409F8-610C-4F60-A4D0-E08A7B35216A}.Release|x64.ActiveCfg = Release|x64
+		{F3D409F8-610C-4F60-A4D0-E08A7B35216A}.Release|x64.Build.0 = Release|x64
+		{F3D409F8-610C-4F60-A4D0-E08A7B35216A}.Release|x86.ActiveCfg = Release|Win32
+		{F3D409F8-610C-4F60-A4D0-E08A7B35216A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
