@@ -471,6 +471,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1791找出星型图的中�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0969煎饼排序", "0969煎饼排序\0969煎饼排序.vcxproj", "{3C31D2DF-18B0-4ABC-9C31-65A1A0030CE5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0717一比特与二比特字符", "0717一比特与二比特字符\0717一比特与二比特字符.vcxproj", "{4BE772FB-709C-4AD6-8DA4-C5863B6FDC73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2351,6 +2353,14 @@ Global
 		{3C31D2DF-18B0-4ABC-9C31-65A1A0030CE5}.Release|x64.Build.0 = Release|x64
 		{3C31D2DF-18B0-4ABC-9C31-65A1A0030CE5}.Release|x86.ActiveCfg = Release|Win32
 		{3C31D2DF-18B0-4ABC-9C31-65A1A0030CE5}.Release|x86.Build.0 = Release|Win32
+		{4BE772FB-709C-4AD6-8DA4-C5863B6FDC73}.Debug|x64.ActiveCfg = Debug|x64
+		{4BE772FB-709C-4AD6-8DA4-C5863B6FDC73}.Debug|x64.Build.0 = Debug|x64
+		{4BE772FB-709C-4AD6-8DA4-C5863B6FDC73}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BE772FB-709C-4AD6-8DA4-C5863B6FDC73}.Debug|x86.Build.0 = Debug|Win32
+		{4BE772FB-709C-4AD6-8DA4-C5863B6FDC73}.Release|x64.ActiveCfg = Release|x64
+		{4BE772FB-709C-4AD6-8DA4-C5863B6FDC73}.Release|x64.Build.0 = Release|x64
+		{4BE772FB-709C-4AD6-8DA4-C5863B6FDC73}.Release|x86.ActiveCfg = Release|Win32
+		{4BE772FB-709C-4AD6-8DA4-C5863B6FDC73}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
