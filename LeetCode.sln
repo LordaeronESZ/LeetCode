@@ -475,6 +475,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0717一比特与二比特�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0838推多米诺", "0838推多米诺\0838推多米诺.vcxproj", "{25D02AB6-E643-4C17-9269-2F76865A26DF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0739每日温度", "0739每日温度\0739每日温度.vcxproj", "{27357B58-73EF-43C4-8215-9D5E70E813FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2371,6 +2373,14 @@ Global
 		{25D02AB6-E643-4C17-9269-2F76865A26DF}.Release|x64.Build.0 = Release|x64
 		{25D02AB6-E643-4C17-9269-2F76865A26DF}.Release|x86.ActiveCfg = Release|Win32
 		{25D02AB6-E643-4C17-9269-2F76865A26DF}.Release|x86.Build.0 = Release|Win32
+		{27357B58-73EF-43C4-8215-9D5E70E813FE}.Debug|x64.ActiveCfg = Debug|x64
+		{27357B58-73EF-43C4-8215-9D5E70E813FE}.Debug|x64.Build.0 = Debug|x64
+		{27357B58-73EF-43C4-8215-9D5E70E813FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{27357B58-73EF-43C4-8215-9D5E70E813FE}.Debug|x86.Build.0 = Debug|Win32
+		{27357B58-73EF-43C4-8215-9D5E70E813FE}.Release|x64.ActiveCfg = Release|x64
+		{27357B58-73EF-43C4-8215-9D5E70E813FE}.Release|x64.Build.0 = Release|x64
+		{27357B58-73EF-43C4-8215-9D5E70E813FE}.Release|x86.ActiveCfg = Release|Win32
+		{27357B58-73EF-43C4-8215-9D5E70E813FE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
