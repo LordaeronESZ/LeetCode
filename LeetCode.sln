@@ -483,6 +483,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1706球会落何处", "1706
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0537复数乘法", "0537复数乘法\0537复数乘法.vcxproj", "{61580EC8-F3C0-42C8-8590-148472F8A925}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2016增量元素之间的最大差值", "2016增量元素之间的最大差值\2016增量元素之间的最大差值.vcxproj", "{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2411,6 +2413,14 @@ Global
 		{61580EC8-F3C0-42C8-8590-148472F8A925}.Release|x64.Build.0 = Release|x64
 		{61580EC8-F3C0-42C8-8590-148472F8A925}.Release|x86.ActiveCfg = Release|Win32
 		{61580EC8-F3C0-42C8-8590-148472F8A925}.Release|x86.Build.0 = Release|Win32
+		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Debug|x64.ActiveCfg = Debug|x64
+		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Debug|x64.Build.0 = Debug|x64
+		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Debug|x86.Build.0 = Debug|Win32
+		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Release|x64.ActiveCfg = Release|x64
+		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Release|x64.Build.0 = Release|x64
+		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Release|x86.ActiveCfg = Release|Win32
+		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
