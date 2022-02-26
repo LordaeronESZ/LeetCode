@@ -9,7 +9,8 @@ public:
         for (int i = 1; i < nums.size(); i++) {
             if (nums[i] > minVal)
                 res = max(res, nums[i] - minVal);
-            minVal = min(minVal, nums[i]);
+            else
+                minVal = nums[i];
         }
         return res;
     }
