@@ -485,6 +485,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0537复数乘法", "0537复
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2016增量元素之间的最大差值", "2016增量元素之间的最大差值\2016增量元素之间的最大差值.vcxproj", "{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0553最优除法", "0553最优除法\0553最优除法.vcxproj", "{C373111D-AF77-4C13-A5C6-EFCC99D5C246}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2421,6 +2423,14 @@ Global
 		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Release|x64.Build.0 = Release|x64
 		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Release|x86.ActiveCfg = Release|Win32
 		{D28EE8BD-C1C9-4441-AF27-574BDDF8ECEB}.Release|x86.Build.0 = Release|Win32
+		{C373111D-AF77-4C13-A5C6-EFCC99D5C246}.Debug|x64.ActiveCfg = Debug|x64
+		{C373111D-AF77-4C13-A5C6-EFCC99D5C246}.Debug|x64.Build.0 = Debug|x64
+		{C373111D-AF77-4C13-A5C6-EFCC99D5C246}.Debug|x86.ActiveCfg = Debug|Win32
+		{C373111D-AF77-4C13-A5C6-EFCC99D5C246}.Debug|x86.Build.0 = Debug|Win32
+		{C373111D-AF77-4C13-A5C6-EFCC99D5C246}.Release|x64.ActiveCfg = Release|x64
+		{C373111D-AF77-4C13-A5C6-EFCC99D5C246}.Release|x64.Build.0 = Release|x64
+		{C373111D-AF77-4C13-A5C6-EFCC99D5C246}.Release|x86.ActiveCfg = Release|Win32
+		{C373111D-AF77-4C13-A5C6-EFCC99D5C246}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
