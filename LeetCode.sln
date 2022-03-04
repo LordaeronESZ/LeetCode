@@ -497,6 +497,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0258各位相加", "0258各
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0231二的幂", "0231二的幂\0231二的幂.vcxproj", "{9BEFD4CC-AB68-45B1-B976-773C70809815}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2104子数组范围和", "2104子数组范围和\2104子数组范围和.vcxproj", "{EA1AEAC8-C6CA-405A-96F9-7FF32BE66A99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2481,6 +2483,14 @@ Global
 		{9BEFD4CC-AB68-45B1-B976-773C70809815}.Release|x64.Build.0 = Release|x64
 		{9BEFD4CC-AB68-45B1-B976-773C70809815}.Release|x86.ActiveCfg = Release|Win32
 		{9BEFD4CC-AB68-45B1-B976-773C70809815}.Release|x86.Build.0 = Release|Win32
+		{EA1AEAC8-C6CA-405A-96F9-7FF32BE66A99}.Debug|x64.ActiveCfg = Debug|x64
+		{EA1AEAC8-C6CA-405A-96F9-7FF32BE66A99}.Debug|x64.Build.0 = Debug|x64
+		{EA1AEAC8-C6CA-405A-96F9-7FF32BE66A99}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA1AEAC8-C6CA-405A-96F9-7FF32BE66A99}.Debug|x86.Build.0 = Debug|Win32
+		{EA1AEAC8-C6CA-405A-96F9-7FF32BE66A99}.Release|x64.ActiveCfg = Release|x64
+		{EA1AEAC8-C6CA-405A-96F9-7FF32BE66A99}.Release|x64.Build.0 = Release|x64
+		{EA1AEAC8-C6CA-405A-96F9-7FF32BE66A99}.Release|x86.ActiveCfg = Release|Win32
+		{EA1AEAC8-C6CA-405A-96F9-7FF32BE66A99}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
