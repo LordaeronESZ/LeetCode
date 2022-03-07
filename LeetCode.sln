@@ -503,6 +503,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0521最长特殊序列I", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0401二进制手表", "0401二进制手表\0401二进制手表.vcxproj", "{2EA219D8-19EC-4499-AE7F-B1B4C3B41A8A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0504七进制数", "0504七进制数\0504七进制数.vcxproj", "{D8A9F52F-96D0-43EA-BCD6-9931D53CE8A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2100适合打劫银行的日子", "2100适合打劫银行的日子\2100适合打劫银行的日子.vcxproj", "{B616E622-6C87-4DBE-9706-9EFB9F8CB113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2511,6 +2515,22 @@ Global
 		{2EA219D8-19EC-4499-AE7F-B1B4C3B41A8A}.Release|x64.Build.0 = Release|x64
 		{2EA219D8-19EC-4499-AE7F-B1B4C3B41A8A}.Release|x86.ActiveCfg = Release|Win32
 		{2EA219D8-19EC-4499-AE7F-B1B4C3B41A8A}.Release|x86.Build.0 = Release|Win32
+		{D8A9F52F-96D0-43EA-BCD6-9931D53CE8A5}.Debug|x64.ActiveCfg = Debug|x64
+		{D8A9F52F-96D0-43EA-BCD6-9931D53CE8A5}.Debug|x64.Build.0 = Debug|x64
+		{D8A9F52F-96D0-43EA-BCD6-9931D53CE8A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8A9F52F-96D0-43EA-BCD6-9931D53CE8A5}.Debug|x86.Build.0 = Debug|Win32
+		{D8A9F52F-96D0-43EA-BCD6-9931D53CE8A5}.Release|x64.ActiveCfg = Release|x64
+		{D8A9F52F-96D0-43EA-BCD6-9931D53CE8A5}.Release|x64.Build.0 = Release|x64
+		{D8A9F52F-96D0-43EA-BCD6-9931D53CE8A5}.Release|x86.ActiveCfg = Release|Win32
+		{D8A9F52F-96D0-43EA-BCD6-9931D53CE8A5}.Release|x86.Build.0 = Release|Win32
+		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Debug|x64.ActiveCfg = Debug|x64
+		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Debug|x64.Build.0 = Debug|x64
+		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Debug|x86.ActiveCfg = Debug|Win32
+		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Debug|x86.Build.0 = Debug|Win32
+		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Release|x64.ActiveCfg = Release|x64
+		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Release|x64.Build.0 = Release|x64
+		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Release|x86.ActiveCfg = Release|Win32
+		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
