@@ -507,6 +507,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0504七进制数", "0504七
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2100适合打劫银行的日子", "2100适合打劫银行的日子\2100适合打劫银行的日子.vcxproj", "{B616E622-6C87-4DBE-9706-9EFB9F8CB113}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2055蜡烛之间的盘子", "2055蜡烛之间的盘子\2055蜡烛之间的盘子.vcxproj", "{58CFF352-2F9E-4C40-84CF-0756620118A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2531,6 +2533,14 @@ Global
 		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Release|x64.Build.0 = Release|x64
 		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Release|x86.ActiveCfg = Release|Win32
 		{B616E622-6C87-4DBE-9706-9EFB9F8CB113}.Release|x86.Build.0 = Release|Win32
+		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Debug|x64.ActiveCfg = Debug|x64
+		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Debug|x64.Build.0 = Debug|x64
+		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Debug|x86.Build.0 = Debug|Win32
+		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Release|x64.ActiveCfg = Release|x64
+		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Release|x64.Build.0 = Release|x64
+		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Release|x86.ActiveCfg = Release|Win32
+		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
