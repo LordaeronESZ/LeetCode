@@ -509,6 +509,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2100适合打劫银行的�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2055蜡烛之间的盘子", "2055蜡烛之间的盘子\2055蜡烛之间的盘子.vcxproj", "{58CFF352-2F9E-4C40-84CF-0756620118A2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1646获取生成数组中的最大值", "1646获取生成数组中的最大值\1646获取生成数组中的最大值.vcxproj", "{29F65B14-1D0D-423B-9C50-254863F4340E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LCS01下载插件", "LCS01下载插件\LCS01下载插件.vcxproj", "{92CE4B05-4D6E-4A75-9191-5AF5CC8A93D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2541,6 +2545,22 @@ Global
 		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Release|x64.Build.0 = Release|x64
 		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Release|x86.ActiveCfg = Release|Win32
 		{58CFF352-2F9E-4C40-84CF-0756620118A2}.Release|x86.Build.0 = Release|Win32
+		{29F65B14-1D0D-423B-9C50-254863F4340E}.Debug|x64.ActiveCfg = Debug|x64
+		{29F65B14-1D0D-423B-9C50-254863F4340E}.Debug|x64.Build.0 = Debug|x64
+		{29F65B14-1D0D-423B-9C50-254863F4340E}.Debug|x86.ActiveCfg = Debug|Win32
+		{29F65B14-1D0D-423B-9C50-254863F4340E}.Debug|x86.Build.0 = Debug|Win32
+		{29F65B14-1D0D-423B-9C50-254863F4340E}.Release|x64.ActiveCfg = Release|x64
+		{29F65B14-1D0D-423B-9C50-254863F4340E}.Release|x64.Build.0 = Release|x64
+		{29F65B14-1D0D-423B-9C50-254863F4340E}.Release|x86.ActiveCfg = Release|Win32
+		{29F65B14-1D0D-423B-9C50-254863F4340E}.Release|x86.Build.0 = Release|Win32
+		{92CE4B05-4D6E-4A75-9191-5AF5CC8A93D1}.Debug|x64.ActiveCfg = Debug|x64
+		{92CE4B05-4D6E-4A75-9191-5AF5CC8A93D1}.Debug|x64.Build.0 = Debug|x64
+		{92CE4B05-4D6E-4A75-9191-5AF5CC8A93D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{92CE4B05-4D6E-4A75-9191-5AF5CC8A93D1}.Debug|x86.Build.0 = Debug|Win32
+		{92CE4B05-4D6E-4A75-9191-5AF5CC8A93D1}.Release|x64.ActiveCfg = Release|x64
+		{92CE4B05-4D6E-4A75-9191-5AF5CC8A93D1}.Release|x64.Build.0 = Release|x64
+		{92CE4B05-4D6E-4A75-9191-5AF5CC8A93D1}.Release|x86.ActiveCfg = Release|Win32
+		{92CE4B05-4D6E-4A75-9191-5AF5CC8A93D1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
