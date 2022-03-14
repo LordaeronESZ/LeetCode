@@ -23,13 +23,13 @@ private:
     void postorderTraversal(vector<int>& res, Node* root) {
         if (!root)
             return;
-        res.emplace_back(root->val);
         for (const auto& r : root->children) {
             postorderTraversal(res, r);
         }
+        res.emplace_back(root->val);
     }
 public:
-    vector<int> preorder(Node* root) {
+    vector<int> postorder(Node* root) {
         vector<int> res;
         postorderTraversal(res, root);
         return res;
@@ -47,7 +47,7 @@ int main() {
     node21->children = nodev3;
     vector<Node*> nodev2 = { node21, node22, node23 };
     root->children = nodev2;
-    auto res = S.preorder(root);
+    auto res = S.postorder(root);
     for (const auto& re : res) {
         cout << re << " ";
     }
