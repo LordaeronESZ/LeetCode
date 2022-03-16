@@ -525,6 +525,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2044统计按位或能得�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0432全O(1)的数据结构", "0432全O(1)的数据结构\0432全O(1)的数据结构.vcxproj", "{EAA3FE26-9200-4A4E-B5FF-84691445AE65}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "剑指Offer62圆圈中最后剩下的数字", "剑指Offer62圆圈中最后剩下的数字\剑指Offer62圆圈中最后剩下的数字.vcxproj", "{915843AB-A57C-46A8-A091-C4525282D54E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2621,6 +2623,14 @@ Global
 		{EAA3FE26-9200-4A4E-B5FF-84691445AE65}.Release|x64.Build.0 = Release|x64
 		{EAA3FE26-9200-4A4E-B5FF-84691445AE65}.Release|x86.ActiveCfg = Release|Win32
 		{EAA3FE26-9200-4A4E-B5FF-84691445AE65}.Release|x86.Build.0 = Release|Win32
+		{915843AB-A57C-46A8-A091-C4525282D54E}.Debug|x64.ActiveCfg = Debug|x64
+		{915843AB-A57C-46A8-A091-C4525282D54E}.Debug|x64.Build.0 = Debug|x64
+		{915843AB-A57C-46A8-A091-C4525282D54E}.Debug|x86.ActiveCfg = Debug|Win32
+		{915843AB-A57C-46A8-A091-C4525282D54E}.Debug|x86.Build.0 = Debug|Win32
+		{915843AB-A57C-46A8-A091-C4525282D54E}.Release|x64.ActiveCfg = Release|x64
+		{915843AB-A57C-46A8-A091-C4525282D54E}.Release|x64.Build.0 = Release|x64
+		{915843AB-A57C-46A8-A091-C4525282D54E}.Release|x86.ActiveCfg = Release|Win32
+		{915843AB-A57C-46A8-A091-C4525282D54E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
