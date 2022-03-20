@@ -533,6 +533,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2043简易银行系统", "2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0606根据二叉树创建字符串", "0606根据二叉树创建字符串\0606根据二叉树创建字符串.vcxproj", "{37FE273B-F3D8-4F22-A8FB-0319146DC06E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0241为运算表达式设计优先级", "0241为运算表达式设计优先级\0241为运算表达式设计优先级.vcxproj", "{A3B8598F-7117-4C82-A977-D572FE3A9631}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2661,6 +2663,14 @@ Global
 		{37FE273B-F3D8-4F22-A8FB-0319146DC06E}.Release|x64.Build.0 = Release|x64
 		{37FE273B-F3D8-4F22-A8FB-0319146DC06E}.Release|x86.ActiveCfg = Release|Win32
 		{37FE273B-F3D8-4F22-A8FB-0319146DC06E}.Release|x86.Build.0 = Release|Win32
+		{A3B8598F-7117-4C82-A977-D572FE3A9631}.Debug|x64.ActiveCfg = Debug|x64
+		{A3B8598F-7117-4C82-A977-D572FE3A9631}.Debug|x64.Build.0 = Debug|x64
+		{A3B8598F-7117-4C82-A977-D572FE3A9631}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3B8598F-7117-4C82-A977-D572FE3A9631}.Debug|x86.Build.0 = Debug|Win32
+		{A3B8598F-7117-4C82-A977-D572FE3A9631}.Release|x64.ActiveCfg = Release|x64
+		{A3B8598F-7117-4C82-A977-D572FE3A9631}.Release|x64.Build.0 = Release|x64
+		{A3B8598F-7117-4C82-A977-D572FE3A9631}.Release|x86.ActiveCfg = Release|Win32
+		{A3B8598F-7117-4C82-A977-D572FE3A9631}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
