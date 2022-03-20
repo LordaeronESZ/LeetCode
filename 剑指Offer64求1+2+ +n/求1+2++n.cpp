@@ -3,11 +3,7 @@ using namespace std;
 class Solution {
 public:
     int sumNums(int n) {
-        int res = 0;
-        if (!n)
-            return n;
-        res = sumNums(n - 1) + n;
-        return res;
+        return !n ? 0 : sumNums(n - 1) + n;
     }
 };
 int main() {
