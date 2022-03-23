@@ -1,33 +1,32 @@
 #include<iostream>
 #include<vector>
-#include<numeric>
 #include<algorithm>
-#include<set>
 using namespace std;
 
 class Solution {
 private:
     vector<vector<int>> res;
-    set<vector<int>> reSet;
-    void search(vector<int>& candidates, vector<int>& temp, int target, int ind) {
-        if (ind == candidates.size()) {
-            int sum = accumulate(temp.begin(), temp.end(), 0);
-            if (sum == target)
-                reSet.emplace(temp);
+    vector<int> temp;
+    void search(vector<int>& candidates, int target, int ind) {
+        if (!target) {
+            res.emplace_back(temp);
             return;
         }
-        temp.emplace_back(candidates[ind]);
-        search(candidates, temp, target, ind + 1);
-        temp.pop_back();
-        search(candidates, temp, target, ind + 1);
+        for (int i = ind; i < candidates.size(); ++i) {
+            if (candidates[i] > target)
+                break;
+            if (i > ind && candidates[i] == candidates[i - 1])
+                continue;
+            temp.emplace_back(candidates[i]);
+            search(candidates, target - candidates[i], i + 1);
+            temp.pop_back();
+        }
     }
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         vector<int> temp;
         sort(candidates.begin(), candidates.end());
-        search(candidates, temp, target, 0);
-        for (const auto& re : reSet)
-            res.emplace_back(re);
+        search(candidates, target, 0);
         return res;
     }
 };
