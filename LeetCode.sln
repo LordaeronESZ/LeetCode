@@ -547,6 +547,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0440字典序的第K小数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0661图片平滑器", "0661图片平滑器\0661图片平滑器.vcxproj", "{85B6E437-A7D8-44F9-81E7-5FD6E8077397}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0172阶乘后的零", "0172阶乘后的零\0172阶乘后的零.vcxproj", "{09004858-B5F7-4C59-8A06-628526277BBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2731,6 +2733,14 @@ Global
 		{85B6E437-A7D8-44F9-81E7-5FD6E8077397}.Release|x64.Build.0 = Release|x64
 		{85B6E437-A7D8-44F9-81E7-5FD6E8077397}.Release|x86.ActiveCfg = Release|Win32
 		{85B6E437-A7D8-44F9-81E7-5FD6E8077397}.Release|x86.Build.0 = Release|Win32
+		{09004858-B5F7-4C59-8A06-628526277BBF}.Debug|x64.ActiveCfg = Debug|x64
+		{09004858-B5F7-4C59-8A06-628526277BBF}.Debug|x64.Build.0 = Debug|x64
+		{09004858-B5F7-4C59-8A06-628526277BBF}.Debug|x86.ActiveCfg = Debug|Win32
+		{09004858-B5F7-4C59-8A06-628526277BBF}.Debug|x86.Build.0 = Debug|Win32
+		{09004858-B5F7-4C59-8A06-628526277BBF}.Release|x64.ActiveCfg = Release|x64
+		{09004858-B5F7-4C59-8A06-628526277BBF}.Release|x64.Build.0 = Release|x64
+		{09004858-B5F7-4C59-8A06-628526277BBF}.Release|x86.ActiveCfg = Release|Win32
+		{09004858-B5F7-4C59-8A06-628526277BBF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
