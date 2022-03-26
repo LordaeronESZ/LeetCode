@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="字典序的第K小数字.cpp">
+    <ClCompile Include="棒球比赛.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

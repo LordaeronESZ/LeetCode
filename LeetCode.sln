@@ -543,11 +543,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2038如果相邻两个颜�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0040组合总和II", "0040组合总和II\0040组合总和II.vcxproj", "{508FC23A-B701-4D7E-9721-BD2996961388}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0440字典序的第K小数字", "0440字典序的第K小数字\0440字典序的第K小数字.vcxproj", "{023EC032-ED37-4974-A866-4F9C42EF9DF8}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0661图片平滑器", "0661图片平滑器\0661图片平滑器.vcxproj", "{85B6E437-A7D8-44F9-81E7-5FD6E8077397}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0172阶乘后的零", "0172阶乘后的零\0172阶乘后的零.vcxproj", "{09004858-B5F7-4C59-8A06-628526277BBF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0682棒球比赛", "0682棒球比赛\0682棒球比赛.vcxproj", "{048ADC15-42DB-4634-974F-F2EA1A77B1A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -2717,14 +2717,6 @@ Global
 		{508FC23A-B701-4D7E-9721-BD2996961388}.Release|x64.Build.0 = Release|x64
 		{508FC23A-B701-4D7E-9721-BD2996961388}.Release|x86.ActiveCfg = Release|Win32
 		{508FC23A-B701-4D7E-9721-BD2996961388}.Release|x86.Build.0 = Release|Win32
-		{023EC032-ED37-4974-A866-4F9C42EF9DF8}.Debug|x64.ActiveCfg = Debug|x64
-		{023EC032-ED37-4974-A866-4F9C42EF9DF8}.Debug|x64.Build.0 = Debug|x64
-		{023EC032-ED37-4974-A866-4F9C42EF9DF8}.Debug|x86.ActiveCfg = Debug|Win32
-		{023EC032-ED37-4974-A866-4F9C42EF9DF8}.Debug|x86.Build.0 = Debug|Win32
-		{023EC032-ED37-4974-A866-4F9C42EF9DF8}.Release|x64.ActiveCfg = Release|x64
-		{023EC032-ED37-4974-A866-4F9C42EF9DF8}.Release|x64.Build.0 = Release|x64
-		{023EC032-ED37-4974-A866-4F9C42EF9DF8}.Release|x86.ActiveCfg = Release|Win32
-		{023EC032-ED37-4974-A866-4F9C42EF9DF8}.Release|x86.Build.0 = Release|Win32
 		{85B6E437-A7D8-44F9-81E7-5FD6E8077397}.Debug|x64.ActiveCfg = Debug|x64
 		{85B6E437-A7D8-44F9-81E7-5FD6E8077397}.Debug|x64.Build.0 = Debug|x64
 		{85B6E437-A7D8-44F9-81E7-5FD6E8077397}.Debug|x86.ActiveCfg = Debug|Win32
@@ -2741,6 +2733,14 @@ Global
 		{09004858-B5F7-4C59-8A06-628526277BBF}.Release|x64.Build.0 = Release|x64
 		{09004858-B5F7-4C59-8A06-628526277BBF}.Release|x86.ActiveCfg = Release|Win32
 		{09004858-B5F7-4C59-8A06-628526277BBF}.Release|x86.Build.0 = Release|Win32
+		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Debug|x64.ActiveCfg = Debug|x64
+		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Debug|x64.Build.0 = Debug|x64
+		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Debug|x86.Build.0 = Debug|Win32
+		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Release|x64.ActiveCfg = Release|x64
+		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Release|x64.Build.0 = Release|x64
+		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Release|x86.ActiveCfg = Release|Win32
+		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
