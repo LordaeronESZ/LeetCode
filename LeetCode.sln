@@ -549,6 +549,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0172阶乘后的零", "0172
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0682棒球比赛", "0682棒球比赛\0682棒球比赛.vcxproj", "{048ADC15-42DB-4634-974F-F2EA1A77B1A1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2028找出缺失的观测数据", "2028找出缺失的观测数据\2028找出缺失的观测数据.vcxproj", "{66A70D59-84B9-493B-8F80-E4D815C73C57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2741,6 +2743,14 @@ Global
 		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Release|x64.Build.0 = Release|x64
 		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Release|x86.ActiveCfg = Release|Win32
 		{048ADC15-42DB-4634-974F-F2EA1A77B1A1}.Release|x86.Build.0 = Release|Win32
+		{66A70D59-84B9-493B-8F80-E4D815C73C57}.Debug|x64.ActiveCfg = Debug|x64
+		{66A70D59-84B9-493B-8F80-E4D815C73C57}.Debug|x64.Build.0 = Debug|x64
+		{66A70D59-84B9-493B-8F80-E4D815C73C57}.Debug|x86.ActiveCfg = Debug|Win32
+		{66A70D59-84B9-493B-8F80-E4D815C73C57}.Debug|x86.Build.0 = Debug|Win32
+		{66A70D59-84B9-493B-8F80-E4D815C73C57}.Release|x64.ActiveCfg = Release|x64
+		{66A70D59-84B9-493B-8F80-E4D815C73C57}.Release|x64.Build.0 = Release|x64
+		{66A70D59-84B9-493B-8F80-E4D815C73C57}.Release|x86.ActiveCfg = Release|Win32
+		{66A70D59-84B9-493B-8F80-E4D815C73C57}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
