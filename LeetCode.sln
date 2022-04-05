@@ -563,6 +563,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0744寻找比目标字母�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0307区域和检索-数组可修改", "0307区域和检索-数组可修改\0307区域和检索-数组可修改.vcxproj", "{8ADD276C-2D59-4717-B9A0-8451ABB2EB1E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0762二进制表示中质数个计算置位", "0762二进制表示中质数个计算置位\0762二进制表示中质数个计算置位.vcxproj", "{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2811,6 +2813,14 @@ Global
 		{8ADD276C-2D59-4717-B9A0-8451ABB2EB1E}.Release|x64.Build.0 = Release|x64
 		{8ADD276C-2D59-4717-B9A0-8451ABB2EB1E}.Release|x86.ActiveCfg = Release|Win32
 		{8ADD276C-2D59-4717-B9A0-8451ABB2EB1E}.Release|x86.Build.0 = Release|Win32
+		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Debug|x64.ActiveCfg = Debug|x64
+		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Debug|x64.Build.0 = Debug|x64
+		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Debug|x86.Build.0 = Debug|Win32
+		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Release|x64.ActiveCfg = Release|x64
+		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Release|x64.Build.0 = Release|x64
+		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Release|x86.ActiveCfg = Release|Win32
+		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
