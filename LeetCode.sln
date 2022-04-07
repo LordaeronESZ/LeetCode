@@ -565,6 +565,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0307区域和检索-数组�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0762二进制表示中质数个计算置位", "0762二进制表示中质数个计算置位\0762二进制表示中质数个计算置位.vcxproj", "{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0796旋转字符串", "0796旋转字符串\0796旋转字符串.vcxproj", "{BEB24DCF-BE28-4B72-ADEB-3FD8F8478BC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2821,6 +2823,14 @@ Global
 		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Release|x64.Build.0 = Release|x64
 		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Release|x86.ActiveCfg = Release|Win32
 		{1D7B06D4-B22F-444C-AF53-B2F7C35882AD}.Release|x86.Build.0 = Release|Win32
+		{BEB24DCF-BE28-4B72-ADEB-3FD8F8478BC1}.Debug|x64.ActiveCfg = Debug|x64
+		{BEB24DCF-BE28-4B72-ADEB-3FD8F8478BC1}.Debug|x64.Build.0 = Debug|x64
+		{BEB24DCF-BE28-4B72-ADEB-3FD8F8478BC1}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEB24DCF-BE28-4B72-ADEB-3FD8F8478BC1}.Debug|x86.Build.0 = Debug|Win32
+		{BEB24DCF-BE28-4B72-ADEB-3FD8F8478BC1}.Release|x64.ActiveCfg = Release|x64
+		{BEB24DCF-BE28-4B72-ADEB-3FD8F8478BC1}.Release|x64.Build.0 = Release|x64
+		{BEB24DCF-BE28-4B72-ADEB-3FD8F8478BC1}.Release|x86.ActiveCfg = Release|Win32
+		{BEB24DCF-BE28-4B72-ADEB-3FD8F8478BC1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
