@@ -569,6 +569,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0796旋转字符串", "0796
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0429N叉树的层序遍历", "0429N叉树的层序遍历\0429N叉树的层序遍历.vcxproj", "{4A667470-6925-430E-923C-F66DF1549B78}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0804唯一莫尔斯密码词", "0804唯一莫尔斯密码词\0804唯一莫尔斯密码词.vcxproj", "{C87AE7E9-CD3C-4E34-875D-F36F49CC12BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2841,6 +2843,14 @@ Global
 		{4A667470-6925-430E-923C-F66DF1549B78}.Release|x64.Build.0 = Release|x64
 		{4A667470-6925-430E-923C-F66DF1549B78}.Release|x86.ActiveCfg = Release|Win32
 		{4A667470-6925-430E-923C-F66DF1549B78}.Release|x86.Build.0 = Release|Win32
+		{C87AE7E9-CD3C-4E34-875D-F36F49CC12BE}.Debug|x64.ActiveCfg = Debug|x64
+		{C87AE7E9-CD3C-4E34-875D-F36F49CC12BE}.Debug|x64.Build.0 = Debug|x64
+		{C87AE7E9-CD3C-4E34-875D-F36F49CC12BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{C87AE7E9-CD3C-4E34-875D-F36F49CC12BE}.Debug|x86.Build.0 = Debug|Win32
+		{C87AE7E9-CD3C-4E34-875D-F36F49CC12BE}.Release|x64.ActiveCfg = Release|x64
+		{C87AE7E9-CD3C-4E34-875D-F36F49CC12BE}.Release|x64.Build.0 = Release|x64
+		{C87AE7E9-CD3C-4E34-875D-F36F49CC12BE}.Release|x86.ActiveCfg = Release|Win32
+		{C87AE7E9-CD3C-4E34-875D-F36F49CC12BE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
