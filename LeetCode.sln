@@ -581,6 +581,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1672最富有客户的资�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0819最常见的单词", "0819最常见的单词\0819最常见的单词.vcxproj", "{A322D0E6-07FF-4693-813C-DC6D84C038B4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0386字典序排数", "0386字典序排数\0386字典序排数.vcxproj", "{392AFD6F-224F-4E93-964E-A5D9663E78B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2901,6 +2903,14 @@ Global
 		{A322D0E6-07FF-4693-813C-DC6D84C038B4}.Release|x64.Build.0 = Release|x64
 		{A322D0E6-07FF-4693-813C-DC6D84C038B4}.Release|x86.ActiveCfg = Release|Win32
 		{A322D0E6-07FF-4693-813C-DC6D84C038B4}.Release|x86.Build.0 = Release|Win32
+		{392AFD6F-224F-4E93-964E-A5D9663E78B6}.Debug|x64.ActiveCfg = Debug|x64
+		{392AFD6F-224F-4E93-964E-A5D9663E78B6}.Debug|x64.Build.0 = Debug|x64
+		{392AFD6F-224F-4E93-964E-A5D9663E78B6}.Debug|x86.ActiveCfg = Debug|Win32
+		{392AFD6F-224F-4E93-964E-A5D9663E78B6}.Debug|x86.Build.0 = Debug|Win32
+		{392AFD6F-224F-4E93-964E-A5D9663E78B6}.Release|x64.ActiveCfg = Release|x64
+		{392AFD6F-224F-4E93-964E-A5D9663E78B6}.Release|x64.Build.0 = Release|x64
+		{392AFD6F-224F-4E93-964E-A5D9663E78B6}.Release|x86.ActiveCfg = Release|Win32
+		{392AFD6F-224F-4E93-964E-A5D9663E78B6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
