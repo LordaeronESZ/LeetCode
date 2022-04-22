@@ -587,6 +587,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0821字符的最短距离",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0824山羊拉丁文", "0824山羊拉丁文\0824山羊拉丁文.vcxproj", "{9CD82B04-D3D1-4902-89C3-5ED580571F0C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0396旋转函数", "0396旋转函数\0396旋转函数.vcxproj", "{900AFBB8-E035-4D43-83A5-EFB32D954C5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2931,6 +2933,14 @@ Global
 		{9CD82B04-D3D1-4902-89C3-5ED580571F0C}.Release|x64.Build.0 = Release|x64
 		{9CD82B04-D3D1-4902-89C3-5ED580571F0C}.Release|x86.ActiveCfg = Release|Win32
 		{9CD82B04-D3D1-4902-89C3-5ED580571F0C}.Release|x86.Build.0 = Release|Win32
+		{900AFBB8-E035-4D43-83A5-EFB32D954C5C}.Debug|x64.ActiveCfg = Debug|x64
+		{900AFBB8-E035-4D43-83A5-EFB32D954C5C}.Debug|x64.Build.0 = Debug|x64
+		{900AFBB8-E035-4D43-83A5-EFB32D954C5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{900AFBB8-E035-4D43-83A5-EFB32D954C5C}.Debug|x86.Build.0 = Debug|Win32
+		{900AFBB8-E035-4D43-83A5-EFB32D954C5C}.Release|x64.ActiveCfg = Release|x64
+		{900AFBB8-E035-4D43-83A5-EFB32D954C5C}.Release|x64.Build.0 = Release|x64
+		{900AFBB8-E035-4D43-83A5-EFB32D954C5C}.Release|x86.ActiveCfg = Release|Win32
+		{900AFBB8-E035-4D43-83A5-EFB32D954C5C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
