@@ -595,6 +595,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0398随机数索引", "0398
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0883三维形体投影面积", "0883三维形体投影面积\0883三维形体投影面积.vcxproj", "{CE4DA694-BCA2-4898-BB48-0358AC0C93DB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0417太平洋和大西洋水流问题", "0417太平洋和大西洋水流问题\0417太平洋和大西洋水流问题.vcxproj", "{707294DE-4D14-4E4A-B071-93752F9D2099}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2971,6 +2973,14 @@ Global
 		{CE4DA694-BCA2-4898-BB48-0358AC0C93DB}.Release|x64.Build.0 = Release|x64
 		{CE4DA694-BCA2-4898-BB48-0358AC0C93DB}.Release|x86.ActiveCfg = Release|Win32
 		{CE4DA694-BCA2-4898-BB48-0358AC0C93DB}.Release|x86.Build.0 = Release|Win32
+		{707294DE-4D14-4E4A-B071-93752F9D2099}.Debug|x64.ActiveCfg = Debug|x64
+		{707294DE-4D14-4E4A-B071-93752F9D2099}.Debug|x64.Build.0 = Debug|x64
+		{707294DE-4D14-4E4A-B071-93752F9D2099}.Debug|x86.ActiveCfg = Debug|Win32
+		{707294DE-4D14-4E4A-B071-93752F9D2099}.Debug|x86.Build.0 = Debug|Win32
+		{707294DE-4D14-4E4A-B071-93752F9D2099}.Release|x64.ActiveCfg = Release|x64
+		{707294DE-4D14-4E4A-B071-93752F9D2099}.Release|x64.Build.0 = Release|x64
+		{707294DE-4D14-4E4A-B071-93752F9D2099}.Release|x86.ActiveCfg = Release|Win32
+		{707294DE-4D14-4E4A-B071-93752F9D2099}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
