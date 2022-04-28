@@ -597,6 +597,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0883三维形体投影面�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0417太平洋和大西洋水流问题", "0417太平洋和大西洋水流问题\0417太平洋和大西洋水流问题.vcxproj", "{707294DE-4D14-4E4A-B071-93752F9D2099}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0905按奇偶排序数组", "按奇偶排序数组\按奇偶排序数组.vcxproj", "{B18C8D36-3DA9-4430-919E-A7E48C517A0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2981,6 +2983,14 @@ Global
 		{707294DE-4D14-4E4A-B071-93752F9D2099}.Release|x64.Build.0 = Release|x64
 		{707294DE-4D14-4E4A-B071-93752F9D2099}.Release|x86.ActiveCfg = Release|Win32
 		{707294DE-4D14-4E4A-B071-93752F9D2099}.Release|x86.Build.0 = Release|Win32
+		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Debug|x64.ActiveCfg = Debug|x64
+		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Debug|x64.Build.0 = Debug|x64
+		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Debug|x86.Build.0 = Debug|Win32
+		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Release|x64.ActiveCfg = Release|x64
+		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Release|x64.Build.0 = Release|x64
+		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Release|x86.ActiveCfg = Release|Win32
+		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
