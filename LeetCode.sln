@@ -599,6 +599,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0417太平洋和大西洋�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0905按奇偶排序数组", "按奇偶排序数组\按奇偶排序数组.vcxproj", "{B18C8D36-3DA9-4430-919E-A7E48C517A0E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0908最小差值", "0908最小差值\0908最小差值.vcxproj", "{049BC36D-2582-4437-A4D2-20201EFAD935}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2991,6 +2993,14 @@ Global
 		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Release|x64.Build.0 = Release|x64
 		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Release|x86.ActiveCfg = Release|Win32
 		{B18C8D36-3DA9-4430-919E-A7E48C517A0E}.Release|x86.Build.0 = Release|Win32
+		{049BC36D-2582-4437-A4D2-20201EFAD935}.Debug|x64.ActiveCfg = Debug|x64
+		{049BC36D-2582-4437-A4D2-20201EFAD935}.Debug|x64.Build.0 = Debug|x64
+		{049BC36D-2582-4437-A4D2-20201EFAD935}.Debug|x86.ActiveCfg = Debug|Win32
+		{049BC36D-2582-4437-A4D2-20201EFAD935}.Debug|x86.Build.0 = Debug|Win32
+		{049BC36D-2582-4437-A4D2-20201EFAD935}.Release|x64.ActiveCfg = Release|x64
+		{049BC36D-2582-4437-A4D2-20201EFAD935}.Release|x64.Build.0 = Release|x64
+		{049BC36D-2582-4437-A4D2-20201EFAD935}.Release|x86.ActiveCfg = Release|Win32
+		{049BC36D-2582-4437-A4D2-20201EFAD935}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
