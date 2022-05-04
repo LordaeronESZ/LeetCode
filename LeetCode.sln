@@ -603,6 +603,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0908最小差值", "0908最
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0937重新排列日志文件", "0937重新排列日志文件\0937重新排列日志文件.vcxproj", "{9065978C-E097-4972-83B9-145E47B86405}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1823找出游戏的获胜者", "1823找出游戏的获胜者\1823找出游戏的获胜者.vcxproj", "{2EF36DA0-EB65-4F18-87EA-71E8534428F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3011,6 +3013,14 @@ Global
 		{9065978C-E097-4972-83B9-145E47B86405}.Release|x64.Build.0 = Release|x64
 		{9065978C-E097-4972-83B9-145E47B86405}.Release|x86.ActiveCfg = Release|Win32
 		{9065978C-E097-4972-83B9-145E47B86405}.Release|x86.Build.0 = Release|Win32
+		{2EF36DA0-EB65-4F18-87EA-71E8534428F6}.Debug|x64.ActiveCfg = Debug|x64
+		{2EF36DA0-EB65-4F18-87EA-71E8534428F6}.Debug|x64.Build.0 = Debug|x64
+		{2EF36DA0-EB65-4F18-87EA-71E8534428F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{2EF36DA0-EB65-4F18-87EA-71E8534428F6}.Debug|x86.Build.0 = Debug|Win32
+		{2EF36DA0-EB65-4F18-87EA-71E8534428F6}.Release|x64.ActiveCfg = Release|x64
+		{2EF36DA0-EB65-4F18-87EA-71E8534428F6}.Release|x64.Build.0 = Release|x64
+		{2EF36DA0-EB65-4F18-87EA-71E8534428F6}.Release|x86.ActiveCfg = Release|Win32
+		{2EF36DA0-EB65-4F18-87EA-71E8534428F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
