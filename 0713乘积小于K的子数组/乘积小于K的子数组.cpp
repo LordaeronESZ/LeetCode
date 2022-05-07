@@ -6,9 +6,8 @@ class Solution {
 public:
     // »¬¶¯´°¿Ú
     int numSubarrayProductLessThanK(vector<int>& nums, int k) {
-        int res = 0, product = 1;
+        int res = 0, product = 1, i = 0;
         for (int j = 0; j < nums.size(); ++j) {
-            int i = 0;
             product *= nums[j];
             while (i <= j && product >= k) {
                 product /= nums[i];
