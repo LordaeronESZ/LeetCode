@@ -619,6 +619,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0944删列造序", "0944删
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题01.05.一次编辑", "面试题01.05一次编辑\面试题01.05一次编辑.vcxproj", "{331A3B31-D64D-4C03-8A20-3DEF5241DA2C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0812最大三角形面积", "0812最大三角形面积\0812最大三角形面积.vcxproj", "{F45A4BB7-9267-4DFD-B121-5EA93E21EDA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3091,6 +3093,14 @@ Global
 		{331A3B31-D64D-4C03-8A20-3DEF5241DA2C}.Release|x64.Build.0 = Release|x64
 		{331A3B31-D64D-4C03-8A20-3DEF5241DA2C}.Release|x86.ActiveCfg = Release|Win32
 		{331A3B31-D64D-4C03-8A20-3DEF5241DA2C}.Release|x86.Build.0 = Release|Win32
+		{F45A4BB7-9267-4DFD-B121-5EA93E21EDA0}.Debug|x64.ActiveCfg = Debug|x64
+		{F45A4BB7-9267-4DFD-B121-5EA93E21EDA0}.Debug|x64.Build.0 = Debug|x64
+		{F45A4BB7-9267-4DFD-B121-5EA93E21EDA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{F45A4BB7-9267-4DFD-B121-5EA93E21EDA0}.Debug|x86.Build.0 = Debug|Win32
+		{F45A4BB7-9267-4DFD-B121-5EA93E21EDA0}.Release|x64.ActiveCfg = Release|x64
+		{F45A4BB7-9267-4DFD-B121-5EA93E21EDA0}.Release|x64.Build.0 = Release|x64
+		{F45A4BB7-9267-4DFD-B121-5EA93E21EDA0}.Release|x86.ActiveCfg = Release|Win32
+		{F45A4BB7-9267-4DFD-B121-5EA93E21EDA0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
