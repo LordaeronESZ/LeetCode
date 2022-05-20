@@ -625,6 +625,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0953验证外星语词典",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0462最少移动次数使数组元素相等II", "0462最少移动次数使数组元素相等\0462最少移动次数使数组元素相等.vcxproj", "{E1A2772E-A99D-43F9-ABFB-E2ED0F20DAE8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0436寻找右区间", "0436寻找右区间\0436寻找右区间.vcxproj", "{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3121,6 +3123,14 @@ Global
 		{E1A2772E-A99D-43F9-ABFB-E2ED0F20DAE8}.Release|x64.Build.0 = Release|x64
 		{E1A2772E-A99D-43F9-ABFB-E2ED0F20DAE8}.Release|x86.ActiveCfg = Release|Win32
 		{E1A2772E-A99D-43F9-ABFB-E2ED0F20DAE8}.Release|x86.Build.0 = Release|Win32
+		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Debug|x64.ActiveCfg = Debug|x64
+		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Debug|x64.Build.0 = Debug|x64
+		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Debug|x86.Build.0 = Debug|Win32
+		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Release|x64.ActiveCfg = Release|x64
+		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Release|x64.Build.0 = Release|x64
+		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Release|x86.ActiveCfg = Release|Win32
+		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
