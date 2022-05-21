@@ -627,6 +627,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0462最少移动次数使�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0436寻找右区间", "0436寻找右区间\0436寻找右区间.vcxproj", "{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0961在长度2N的数组中找出重复N次的元素", "0961在长度2N的数组中找出重复N次的元素\0961在长度2N的数组中找出重复N次的元素.vcxproj", "{B5E1D511-375A-407C-AE92-FB2748EAD711}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3131,6 +3133,14 @@ Global
 		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Release|x64.Build.0 = Release|x64
 		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Release|x86.ActiveCfg = Release|Win32
 		{5D9A6F13-7AFE-48BE-924D-2918AC79A8D6}.Release|x86.Build.0 = Release|Win32
+		{B5E1D511-375A-407C-AE92-FB2748EAD711}.Debug|x64.ActiveCfg = Debug|x64
+		{B5E1D511-375A-407C-AE92-FB2748EAD711}.Debug|x64.Build.0 = Debug|x64
+		{B5E1D511-375A-407C-AE92-FB2748EAD711}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5E1D511-375A-407C-AE92-FB2748EAD711}.Debug|x86.Build.0 = Debug|Win32
+		{B5E1D511-375A-407C-AE92-FB2748EAD711}.Release|x64.ActiveCfg = Release|x64
+		{B5E1D511-375A-407C-AE92-FB2748EAD711}.Release|x64.Build.0 = Release|x64
+		{B5E1D511-375A-407C-AE92-FB2748EAD711}.Release|x86.ActiveCfg = Release|Win32
+		{B5E1D511-375A-407C-AE92-FB2748EAD711}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
