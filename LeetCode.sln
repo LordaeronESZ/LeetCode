@@ -635,6 +635,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题17.11.单词距离
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1021删除最外层括号", "1021删除最外层括号\1021删除最外层括号.vcxproj", "{EBD21E36-D321-4F41-8E89-1D63D4D1F017}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0468验证IP地址", "0468验证IP地址\0468验证IP地址.vcxproj", "{A3FE95D5-B1E9-4FBF-85AB-6D75BFD9A85B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3171,6 +3173,14 @@ Global
 		{EBD21E36-D321-4F41-8E89-1D63D4D1F017}.Release|x64.Build.0 = Release|x64
 		{EBD21E36-D321-4F41-8E89-1D63D4D1F017}.Release|x86.ActiveCfg = Release|Win32
 		{EBD21E36-D321-4F41-8E89-1D63D4D1F017}.Release|x86.Build.0 = Release|Win32
+		{A3FE95D5-B1E9-4FBF-85AB-6D75BFD9A85B}.Debug|x64.ActiveCfg = Debug|x64
+		{A3FE95D5-B1E9-4FBF-85AB-6D75BFD9A85B}.Debug|x64.Build.0 = Debug|x64
+		{A3FE95D5-B1E9-4FBF-85AB-6D75BFD9A85B}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3FE95D5-B1E9-4FBF-85AB-6D75BFD9A85B}.Debug|x86.Build.0 = Debug|Win32
+		{A3FE95D5-B1E9-4FBF-85AB-6D75BFD9A85B}.Release|x64.ActiveCfg = Release|x64
+		{A3FE95D5-B1E9-4FBF-85AB-6D75BFD9A85B}.Release|x64.Build.0 = Release|x64
+		{A3FE95D5-B1E9-4FBF-85AB-6D75BFD9A85B}.Release|x86.ActiveCfg = Release|Win32
+		{A3FE95D5-B1E9-4FBF-85AB-6D75BFD9A85B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
