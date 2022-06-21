@@ -657,6 +657,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0532数组中的k-diff数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1089复写零", "1089复写零\1089复写零.vcxproj", "{0536D067-B7EF-46CC-93BB-2BD7F9A45F54}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1108IP地址无效化", "1108IP地址无效化\1108IP地址无效化.vcxproj", "{A2FF48B9-B09B-4CB9-BA39-A8476C6F0E1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3281,6 +3283,14 @@ Global
 		{0536D067-B7EF-46CC-93BB-2BD7F9A45F54}.Release|x64.Build.0 = Release|x64
 		{0536D067-B7EF-46CC-93BB-2BD7F9A45F54}.Release|x86.ActiveCfg = Release|Win32
 		{0536D067-B7EF-46CC-93BB-2BD7F9A45F54}.Release|x86.Build.0 = Release|Win32
+		{A2FF48B9-B09B-4CB9-BA39-A8476C6F0E1D}.Debug|x64.ActiveCfg = Debug|x64
+		{A2FF48B9-B09B-4CB9-BA39-A8476C6F0E1D}.Debug|x64.Build.0 = Debug|x64
+		{A2FF48B9-B09B-4CB9-BA39-A8476C6F0E1D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2FF48B9-B09B-4CB9-BA39-A8476C6F0E1D}.Debug|x86.Build.0 = Debug|Win32
+		{A2FF48B9-B09B-4CB9-BA39-A8476C6F0E1D}.Release|x64.ActiveCfg = Release|x64
+		{A2FF48B9-B09B-4CB9-BA39-A8476C6F0E1D}.Release|x64.Build.0 = Release|x64
+		{A2FF48B9-B09B-4CB9-BA39-A8476C6F0E1D}.Release|x86.ActiveCfg = Release|Win32
+		{A2FF48B9-B09B-4CB9-BA39-A8476C6F0E1D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
