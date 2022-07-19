@@ -687,6 +687,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "剑指OfferII041滑动窗�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0565数组嵌套", "0565数组嵌套\0565数组嵌套.vcxproj", "{6B53B495-DDC1-4C85-A190-B4003804EC57}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0731我的日程安排II", "0731我的日程安排II\0731我的日程安排II.vcxproj", "{20D6933B-D5B1-4A57-8D3B-79AD3AB36474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3431,6 +3433,14 @@ Global
 		{6B53B495-DDC1-4C85-A190-B4003804EC57}.Release|x64.Build.0 = Release|x64
 		{6B53B495-DDC1-4C85-A190-B4003804EC57}.Release|x86.ActiveCfg = Release|Win32
 		{6B53B495-DDC1-4C85-A190-B4003804EC57}.Release|x86.Build.0 = Release|Win32
+		{20D6933B-D5B1-4A57-8D3B-79AD3AB36474}.Debug|x64.ActiveCfg = Debug|x64
+		{20D6933B-D5B1-4A57-8D3B-79AD3AB36474}.Debug|x64.Build.0 = Debug|x64
+		{20D6933B-D5B1-4A57-8D3B-79AD3AB36474}.Debug|x86.ActiveCfg = Debug|Win32
+		{20D6933B-D5B1-4A57-8D3B-79AD3AB36474}.Debug|x86.Build.0 = Debug|Win32
+		{20D6933B-D5B1-4A57-8D3B-79AD3AB36474}.Release|x64.ActiveCfg = Release|x64
+		{20D6933B-D5B1-4A57-8D3B-79AD3AB36474}.Release|x64.Build.0 = Release|x64
+		{20D6933B-D5B1-4A57-8D3B-79AD3AB36474}.Release|x86.ActiveCfg = Release|Win32
+		{20D6933B-D5B1-4A57-8D3B-79AD3AB36474}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
