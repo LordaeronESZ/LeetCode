@@ -693,6 +693,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1260二维网格迁移", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0829连续整数求和", "0829连续整数求和\0829连续整数求和.vcxproj", "{649F4E25-DFB3-4C94-A588-1E385A754C27}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1601最多可达成的换楼请求数目", "1601最多可达成的换楼请求数目\1601最多可达成的换楼请求数目.vcxproj", "{18976E60-4EE3-4296-AA47-A7820B3E53D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3461,6 +3463,14 @@ Global
 		{649F4E25-DFB3-4C94-A588-1E385A754C27}.Release|x64.Build.0 = Release|x64
 		{649F4E25-DFB3-4C94-A588-1E385A754C27}.Release|x86.ActiveCfg = Release|Win32
 		{649F4E25-DFB3-4C94-A588-1E385A754C27}.Release|x86.Build.0 = Release|Win32
+		{18976E60-4EE3-4296-AA47-A7820B3E53D0}.Debug|x64.ActiveCfg = Debug|x64
+		{18976E60-4EE3-4296-AA47-A7820B3E53D0}.Debug|x64.Build.0 = Debug|x64
+		{18976E60-4EE3-4296-AA47-A7820B3E53D0}.Debug|x86.ActiveCfg = Debug|Win32
+		{18976E60-4EE3-4296-AA47-A7820B3E53D0}.Debug|x86.Build.0 = Debug|Win32
+		{18976E60-4EE3-4296-AA47-A7820B3E53D0}.Release|x64.ActiveCfg = Release|x64
+		{18976E60-4EE3-4296-AA47-A7820B3E53D0}.Release|x64.Build.0 = Release|x64
+		{18976E60-4EE3-4296-AA47-A7820B3E53D0}.Release|x86.ActiveCfg = Release|Win32
+		{18976E60-4EE3-4296-AA47-A7820B3E53D0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
