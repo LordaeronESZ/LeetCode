@@ -695,6 +695,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0829连续整数求和", "0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1184公交站间的距离", "1184公交站间的距离\1184公交站间的距离.vcxproj", "{DD3C33C5-C48B-41F2-AA1A-9EB83C4B841E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0547省份数量", "0547省份数量\0547省份数量.vcxproj", "{C54A3039-702B-4E37-80D3-3B9F13ECC877}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3471,6 +3473,14 @@ Global
 		{DD3C33C5-C48B-41F2-AA1A-9EB83C4B841E}.Release|x64.Build.0 = Release|x64
 		{DD3C33C5-C48B-41F2-AA1A-9EB83C4B841E}.Release|x86.ActiveCfg = Release|Win32
 		{DD3C33C5-C48B-41F2-AA1A-9EB83C4B841E}.Release|x86.Build.0 = Release|Win32
+		{C54A3039-702B-4E37-80D3-3B9F13ECC877}.Debug|x64.ActiveCfg = Debug|x64
+		{C54A3039-702B-4E37-80D3-3B9F13ECC877}.Debug|x64.Build.0 = Debug|x64
+		{C54A3039-702B-4E37-80D3-3B9F13ECC877}.Debug|x86.ActiveCfg = Debug|Win32
+		{C54A3039-702B-4E37-80D3-3B9F13ECC877}.Debug|x86.Build.0 = Debug|Win32
+		{C54A3039-702B-4E37-80D3-3B9F13ECC877}.Release|x64.ActiveCfg = Release|x64
+		{C54A3039-702B-4E37-80D3-3B9F13ECC877}.Release|x64.Build.0 = Release|x64
+		{C54A3039-702B-4E37-80D3-3B9F13ECC877}.Release|x86.ActiveCfg = Release|Win32
+		{C54A3039-702B-4E37-80D3-3B9F13ECC877}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
