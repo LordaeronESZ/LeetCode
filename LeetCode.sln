@@ -705,6 +705,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1374生成每种字符都�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0622设计循环队列", "0622设计循环队列\0622设计循环队列.vcxproj", "{8F3E2B2E-A6AA-4CE9-877A-B57812E5F10F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0899有序队列", "0899有序队列\0899有序队列.vcxproj", "{CDC05A02-5B38-4B84-ACCC-4557C22ECD48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3521,6 +3523,14 @@ Global
 		{8F3E2B2E-A6AA-4CE9-877A-B57812E5F10F}.Release|x64.Build.0 = Release|x64
 		{8F3E2B2E-A6AA-4CE9-877A-B57812E5F10F}.Release|x86.ActiveCfg = Release|Win32
 		{8F3E2B2E-A6AA-4CE9-877A-B57812E5F10F}.Release|x86.Build.0 = Release|Win32
+		{CDC05A02-5B38-4B84-ACCC-4557C22ECD48}.Debug|x64.ActiveCfg = Debug|x64
+		{CDC05A02-5B38-4B84-ACCC-4557C22ECD48}.Debug|x64.Build.0 = Debug|x64
+		{CDC05A02-5B38-4B84-ACCC-4557C22ECD48}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDC05A02-5B38-4B84-ACCC-4557C22ECD48}.Debug|x86.Build.0 = Debug|Win32
+		{CDC05A02-5B38-4B84-ACCC-4557C22ECD48}.Release|x64.ActiveCfg = Release|x64
+		{CDC05A02-5B38-4B84-ACCC-4557C22ECD48}.Release|x64.Build.0 = Release|x64
+		{CDC05A02-5B38-4B84-ACCC-4557C22ECD48}.Release|x86.ActiveCfg = Release|Win32
+		{CDC05A02-5B38-4B84-ACCC-4557C22ECD48}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
