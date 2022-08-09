@@ -713,6 +713,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1408数组中的字符串�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0636函数的独占时间", "0636函数的独占时间\0636函数的独占时间.vcxproj", "{91C4C9E2-BB8E-4E7B-A024-678975C86FDC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1413逐步求和得到正数的最小值", "1413逐步求和得到正数的最小值\1413逐步求和得到正数的最小值.vcxproj", "{38542454-B3B2-40E3-B81A-784E1E453F44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3561,6 +3563,14 @@ Global
 		{91C4C9E2-BB8E-4E7B-A024-678975C86FDC}.Release|x64.Build.0 = Release|x64
 		{91C4C9E2-BB8E-4E7B-A024-678975C86FDC}.Release|x86.ActiveCfg = Release|Win32
 		{91C4C9E2-BB8E-4E7B-A024-678975C86FDC}.Release|x86.Build.0 = Release|Win32
+		{38542454-B3B2-40E3-B81A-784E1E453F44}.Debug|x64.ActiveCfg = Debug|x64
+		{38542454-B3B2-40E3-B81A-784E1E453F44}.Debug|x64.Build.0 = Debug|x64
+		{38542454-B3B2-40E3-B81A-784E1E453F44}.Debug|x86.ActiveCfg = Debug|Win32
+		{38542454-B3B2-40E3-B81A-784E1E453F44}.Debug|x86.Build.0 = Debug|Win32
+		{38542454-B3B2-40E3-B81A-784E1E453F44}.Release|x64.ActiveCfg = Release|x64
+		{38542454-B3B2-40E3-B81A-784E1E453F44}.Release|x64.Build.0 = Release|x64
+		{38542454-B3B2-40E3-B81A-784E1E453F44}.Release|x86.ActiveCfg = Release|Win32
+		{38542454-B3B2-40E3-B81A-784E1E453F44}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
