@@ -719,6 +719,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0640求解方程", "0640求
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1417重新格式化字符串", "1417重新格式化字符串\1417重新格式化字符串.vcxproj", "{87124FE9-B9BF-492C-94DB-9F22CA0FB0FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1282用户分组", "1282用户分组\1282用户分组.vcxproj", "{81D5AF65-685E-4E07-B502-5B74C95564F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3591,6 +3593,14 @@ Global
 		{87124FE9-B9BF-492C-94DB-9F22CA0FB0FF}.Release|x64.Build.0 = Release|x64
 		{87124FE9-B9BF-492C-94DB-9F22CA0FB0FF}.Release|x86.ActiveCfg = Release|Win32
 		{87124FE9-B9BF-492C-94DB-9F22CA0FB0FF}.Release|x86.Build.0 = Release|Win32
+		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Debug|x64.ActiveCfg = Debug|x64
+		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Debug|x64.Build.0 = Debug|x64
+		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Debug|x86.Build.0 = Debug|Win32
+		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Release|x64.ActiveCfg = Release|x64
+		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Release|x64.Build.0 = Release|x64
+		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Release|x86.ActiveCfg = Release|Win32
+		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
