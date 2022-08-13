@@ -721,6 +721,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1417重新格式化字符�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1282用户分组", "1282用户分组\1282用户分组.vcxproj", "{81D5AF65-685E-4E07-B502-5B74C95564F5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0768最多能完成排序的块II", "0768最多能完成排序的块II\0768最多能完成排序的块II.vcxproj", "{97B56BA6-EC7B-4755-8689-964F1F4EF113}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0769最多能完成排序的块", "0769最多能完成排序的块\0769最多能完成排序的块.vcxproj", "{ABB2452F-DA05-4941-B298-3205C93A39CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3601,6 +3605,22 @@ Global
 		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Release|x64.Build.0 = Release|x64
 		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Release|x86.ActiveCfg = Release|Win32
 		{81D5AF65-685E-4E07-B502-5B74C95564F5}.Release|x86.Build.0 = Release|Win32
+		{97B56BA6-EC7B-4755-8689-964F1F4EF113}.Debug|x64.ActiveCfg = Debug|x64
+		{97B56BA6-EC7B-4755-8689-964F1F4EF113}.Debug|x64.Build.0 = Debug|x64
+		{97B56BA6-EC7B-4755-8689-964F1F4EF113}.Debug|x86.ActiveCfg = Debug|Win32
+		{97B56BA6-EC7B-4755-8689-964F1F4EF113}.Debug|x86.Build.0 = Debug|Win32
+		{97B56BA6-EC7B-4755-8689-964F1F4EF113}.Release|x64.ActiveCfg = Release|x64
+		{97B56BA6-EC7B-4755-8689-964F1F4EF113}.Release|x64.Build.0 = Release|x64
+		{97B56BA6-EC7B-4755-8689-964F1F4EF113}.Release|x86.ActiveCfg = Release|Win32
+		{97B56BA6-EC7B-4755-8689-964F1F4EF113}.Release|x86.Build.0 = Release|Win32
+		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Debug|x64.ActiveCfg = Debug|x64
+		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Debug|x64.Build.0 = Debug|x64
+		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Debug|x86.Build.0 = Debug|Win32
+		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Release|x64.ActiveCfg = Release|x64
+		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Release|x64.Build.0 = Release|x64
+		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Release|x86.ActiveCfg = Release|Win32
+		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
