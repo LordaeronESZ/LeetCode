@@ -725,6 +725,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0768最多能完成排序�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0769最多能完成排序的块", "0769最多能完成排序的块\0769最多能完成排序的块.vcxproj", "{ABB2452F-DA05-4941-B298-3205C93A39CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1422分隔字符串的最大得分", "1422分隔字符串的最大得分\1422分隔字符串的最大得分.vcxproj", "{B268AB34-66AC-4423-98DD-E47DA1C78352}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3621,6 +3623,14 @@ Global
 		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Release|x64.Build.0 = Release|x64
 		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Release|x86.ActiveCfg = Release|Win32
 		{ABB2452F-DA05-4941-B298-3205C93A39CC}.Release|x86.Build.0 = Release|Win32
+		{B268AB34-66AC-4423-98DD-E47DA1C78352}.Debug|x64.ActiveCfg = Debug|x64
+		{B268AB34-66AC-4423-98DD-E47DA1C78352}.Debug|x64.Build.0 = Debug|x64
+		{B268AB34-66AC-4423-98DD-E47DA1C78352}.Debug|x86.ActiveCfg = Debug|Win32
+		{B268AB34-66AC-4423-98DD-E47DA1C78352}.Debug|x86.Build.0 = Debug|Win32
+		{B268AB34-66AC-4423-98DD-E47DA1C78352}.Release|x64.ActiveCfg = Release|x64
+		{B268AB34-66AC-4423-98DD-E47DA1C78352}.Release|x64.Build.0 = Release|x64
+		{B268AB34-66AC-4423-98DD-E47DA1C78352}.Release|x86.ActiveCfg = Release|Win32
+		{B268AB34-66AC-4423-98DD-E47DA1C78352}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
