@@ -729,6 +729,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1422分隔字符串的最�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0641设计循环双端队列", "0641设计循环双端队列\0641设计循环双端队列.vcxproj", "{FF2DEB24-920A-42F4-B50B-477A5EBF8788}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1656设计有序流", "1656设计有序流\1656设计有序流.vcxproj", "{7F14B7F3-42DC-4063-AF50-F621E16D73D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3641,6 +3643,14 @@ Global
 		{FF2DEB24-920A-42F4-B50B-477A5EBF8788}.Release|x64.Build.0 = Release|x64
 		{FF2DEB24-920A-42F4-B50B-477A5EBF8788}.Release|x86.ActiveCfg = Release|Win32
 		{FF2DEB24-920A-42F4-B50B-477A5EBF8788}.Release|x86.Build.0 = Release|Win32
+		{7F14B7F3-42DC-4063-AF50-F621E16D73D4}.Debug|x64.ActiveCfg = Debug|x64
+		{7F14B7F3-42DC-4063-AF50-F621E16D73D4}.Debug|x64.Build.0 = Debug|x64
+		{7F14B7F3-42DC-4063-AF50-F621E16D73D4}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F14B7F3-42DC-4063-AF50-F621E16D73D4}.Debug|x86.Build.0 = Debug|Win32
+		{7F14B7F3-42DC-4063-AF50-F621E16D73D4}.Release|x64.ActiveCfg = Release|x64
+		{7F14B7F3-42DC-4063-AF50-F621E16D73D4}.Release|x64.Build.0 = Release|x64
+		{7F14B7F3-42DC-4063-AF50-F621E16D73D4}.Release|x86.ActiveCfg = Release|Win32
+		{7F14B7F3-42DC-4063-AF50-F621E16D73D4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
