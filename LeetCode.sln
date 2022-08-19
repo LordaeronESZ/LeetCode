@@ -733,6 +733,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1656设计有序流", "1656
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1224最大相等频率", "1224最大相等频率\1224最大相等频率.vcxproj", "{05CC9F7A-1F84-44ED-BA36-5C8A27F8EAE4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1450在既定时间做作业的学生人数", "1450在既定时间做作业的学生人数\1450在既定时间做作业的学生人数.vcxproj", "{7368141D-AFD9-447F-8897-8376282F4C92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3661,6 +3663,14 @@ Global
 		{05CC9F7A-1F84-44ED-BA36-5C8A27F8EAE4}.Release|x64.Build.0 = Release|x64
 		{05CC9F7A-1F84-44ED-BA36-5C8A27F8EAE4}.Release|x86.ActiveCfg = Release|Win32
 		{05CC9F7A-1F84-44ED-BA36-5C8A27F8EAE4}.Release|x86.Build.0 = Release|Win32
+		{7368141D-AFD9-447F-8897-8376282F4C92}.Debug|x64.ActiveCfg = Debug|x64
+		{7368141D-AFD9-447F-8897-8376282F4C92}.Debug|x64.Build.0 = Debug|x64
+		{7368141D-AFD9-447F-8897-8376282F4C92}.Debug|x86.ActiveCfg = Debug|Win32
+		{7368141D-AFD9-447F-8897-8376282F4C92}.Debug|x86.Build.0 = Debug|Win32
+		{7368141D-AFD9-447F-8897-8376282F4C92}.Release|x64.ActiveCfg = Release|x64
+		{7368141D-AFD9-447F-8897-8376282F4C92}.Release|x64.Build.0 = Release|x64
+		{7368141D-AFD9-447F-8897-8376282F4C92}.Release|x86.ActiveCfg = Release|Win32
+		{7368141D-AFD9-447F-8897-8376282F4C92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
