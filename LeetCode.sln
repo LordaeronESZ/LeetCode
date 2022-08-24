@@ -737,6 +737,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1450在既定时间做作�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1455检查单词是否为句中其它单词的前缀", "1455检查单词是否为句中其它单词的前缀\1455检查单词是否为句中其它单词的前缀.vcxproj", "{AA9B4A09-C85E-493E-A055-7F835BD875DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1460通过翻转子数组使两个数组相等", "1460通过翻转子数组使两个数组相等\1460通过翻转子数组使两个数组相等.vcxproj", "{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3681,6 +3683,14 @@ Global
 		{AA9B4A09-C85E-493E-A055-7F835BD875DC}.Release|x64.Build.0 = Release|x64
 		{AA9B4A09-C85E-493E-A055-7F835BD875DC}.Release|x86.ActiveCfg = Release|Win32
 		{AA9B4A09-C85E-493E-A055-7F835BD875DC}.Release|x86.Build.0 = Release|Win32
+		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Debug|x64.ActiveCfg = Debug|x64
+		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Debug|x64.Build.0 = Debug|x64
+		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Debug|x86.Build.0 = Debug|Win32
+		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Release|x64.ActiveCfg = Release|x64
+		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Release|x64.Build.0 = Release|x64
+		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Release|x86.ActiveCfg = Release|Win32
+		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
