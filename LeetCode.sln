@@ -739,6 +739,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1455检查单词是否为�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1460通过翻转子数组使两个数组相等", "1460通过翻转子数组使两个数组相等\1460通过翻转子数组使两个数组相等.vcxproj", "{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0658找到K个最接近的元素", "0658找到K个最接近的元素\0658找到K个最接近的元素.vcxproj", "{5520A62B-47F1-4695-AA26-511D5D8AE632}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3691,6 +3693,14 @@ Global
 		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Release|x64.Build.0 = Release|x64
 		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Release|x86.ActiveCfg = Release|Win32
 		{7D616CB4-D8B0-4594-95FC-92CE8791FD3A}.Release|x86.Build.0 = Release|Win32
+		{5520A62B-47F1-4695-AA26-511D5D8AE632}.Debug|x64.ActiveCfg = Debug|x64
+		{5520A62B-47F1-4695-AA26-511D5D8AE632}.Debug|x64.Build.0 = Debug|x64
+		{5520A62B-47F1-4695-AA26-511D5D8AE632}.Debug|x86.ActiveCfg = Debug|Win32
+		{5520A62B-47F1-4695-AA26-511D5D8AE632}.Debug|x86.Build.0 = Debug|Win32
+		{5520A62B-47F1-4695-AA26-511D5D8AE632}.Release|x64.ActiveCfg = Release|x64
+		{5520A62B-47F1-4695-AA26-511D5D8AE632}.Release|x64.Build.0 = Release|x64
+		{5520A62B-47F1-4695-AA26-511D5D8AE632}.Release|x86.ActiveCfg = Release|Win32
+		{5520A62B-47F1-4695-AA26-511D5D8AE632}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
