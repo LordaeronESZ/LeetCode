@@ -743,6 +743,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0658找到K个最接近的�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1464数组中两元素的最大乘积", "1464数组中两元素的最大乘积\1464数组中两元素的最大乘积.vcxproj", "{DCBF0D8F-5746-4CD5-8CCC-72844E761B94}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1470重新排列数组", "1470重新排列数组\1470重新排列数组.vcxproj", "{C9C44F54-DCF0-4D88-A330-D73C9F4248F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1370上升下降字符串", "1370上升下降字符串\1370上升下降字符串.vcxproj", "{0970D61F-A5BF-4BFE-AC51-01A551DD6C05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3711,6 +3715,22 @@ Global
 		{DCBF0D8F-5746-4CD5-8CCC-72844E761B94}.Release|x64.Build.0 = Release|x64
 		{DCBF0D8F-5746-4CD5-8CCC-72844E761B94}.Release|x86.ActiveCfg = Release|Win32
 		{DCBF0D8F-5746-4CD5-8CCC-72844E761B94}.Release|x86.Build.0 = Release|Win32
+		{C9C44F54-DCF0-4D88-A330-D73C9F4248F1}.Debug|x64.ActiveCfg = Debug|x64
+		{C9C44F54-DCF0-4D88-A330-D73C9F4248F1}.Debug|x64.Build.0 = Debug|x64
+		{C9C44F54-DCF0-4D88-A330-D73C9F4248F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{C9C44F54-DCF0-4D88-A330-D73C9F4248F1}.Debug|x86.Build.0 = Debug|Win32
+		{C9C44F54-DCF0-4D88-A330-D73C9F4248F1}.Release|x64.ActiveCfg = Release|x64
+		{C9C44F54-DCF0-4D88-A330-D73C9F4248F1}.Release|x64.Build.0 = Release|x64
+		{C9C44F54-DCF0-4D88-A330-D73C9F4248F1}.Release|x86.ActiveCfg = Release|Win32
+		{C9C44F54-DCF0-4D88-A330-D73C9F4248F1}.Release|x86.Build.0 = Release|Win32
+		{0970D61F-A5BF-4BFE-AC51-01A551DD6C05}.Debug|x64.ActiveCfg = Debug|x64
+		{0970D61F-A5BF-4BFE-AC51-01A551DD6C05}.Debug|x64.Build.0 = Debug|x64
+		{0970D61F-A5BF-4BFE-AC51-01A551DD6C05}.Debug|x86.ActiveCfg = Debug|Win32
+		{0970D61F-A5BF-4BFE-AC51-01A551DD6C05}.Debug|x86.Build.0 = Debug|Win32
+		{0970D61F-A5BF-4BFE-AC51-01A551DD6C05}.Release|x64.ActiveCfg = Release|x64
+		{0970D61F-A5BF-4BFE-AC51-01A551DD6C05}.Release|x64.Build.0 = Release|x64
+		{0970D61F-A5BF-4BFE-AC51-01A551DD6C05}.Release|x86.ActiveCfg = Release|Win32
+		{0970D61F-A5BF-4BFE-AC51-01A551DD6C05}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
