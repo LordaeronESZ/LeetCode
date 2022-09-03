@@ -755,6 +755,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1002查找共用字符", "1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1475商品折扣后的最终价格", "1475商品折扣后的最终价格\1475商品折扣后的最终价格.vcxproj", "{53A90A6D-7F1F-43B3-85BC-5173ECA7E9C6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0646最长数对链", "0646最长数对链\0646最长数对链.vcxproj", "{F2543B69-FCD7-4932-9D18-65C0863DB45C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3771,6 +3773,14 @@ Global
 		{53A90A6D-7F1F-43B3-85BC-5173ECA7E9C6}.Release|x64.Build.0 = Release|x64
 		{53A90A6D-7F1F-43B3-85BC-5173ECA7E9C6}.Release|x86.ActiveCfg = Release|Win32
 		{53A90A6D-7F1F-43B3-85BC-5173ECA7E9C6}.Release|x86.Build.0 = Release|Win32
+		{F2543B69-FCD7-4932-9D18-65C0863DB45C}.Debug|x64.ActiveCfg = Debug|x64
+		{F2543B69-FCD7-4932-9D18-65C0863DB45C}.Debug|x64.Build.0 = Debug|x64
+		{F2543B69-FCD7-4932-9D18-65C0863DB45C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2543B69-FCD7-4932-9D18-65C0863DB45C}.Debug|x86.Build.0 = Debug|Win32
+		{F2543B69-FCD7-4932-9D18-65C0863DB45C}.Release|x64.ActiveCfg = Release|x64
+		{F2543B69-FCD7-4932-9D18-65C0863DB45C}.Release|x64.Build.0 = Release|x64
+		{F2543B69-FCD7-4932-9D18-65C0863DB45C}.Release|x86.ActiveCfg = Release|Win32
+		{F2543B69-FCD7-4932-9D18-65C0863DB45C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
