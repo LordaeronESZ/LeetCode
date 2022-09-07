@@ -759,6 +759,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0646最长数对链", "0646
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1582二进制矩阵中的特殊位置", "1582二进制矩阵中的特殊位置\1582二进制矩阵中的特殊位置.vcxproj", "{DD20DC93-5E74-486D-B589-8183B55EECD5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1592重新排列单词间的空格", "1592重新排列单词间的空格\1592重新排列单词间的空格.vcxproj", "{0B5ACBC6-91C2-4340-8E17-561F3BF50452}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3791,6 +3793,14 @@ Global
 		{DD20DC93-5E74-486D-B589-8183B55EECD5}.Release|x64.Build.0 = Release|x64
 		{DD20DC93-5E74-486D-B589-8183B55EECD5}.Release|x86.ActiveCfg = Release|Win32
 		{DD20DC93-5E74-486D-B589-8183B55EECD5}.Release|x86.Build.0 = Release|Win32
+		{0B5ACBC6-91C2-4340-8E17-561F3BF50452}.Debug|x64.ActiveCfg = Debug|x64
+		{0B5ACBC6-91C2-4340-8E17-561F3BF50452}.Debug|x64.Build.0 = Debug|x64
+		{0B5ACBC6-91C2-4340-8E17-561F3BF50452}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B5ACBC6-91C2-4340-8E17-561F3BF50452}.Debug|x86.Build.0 = Debug|Win32
+		{0B5ACBC6-91C2-4340-8E17-561F3BF50452}.Release|x64.ActiveCfg = Release|x64
+		{0B5ACBC6-91C2-4340-8E17-561F3BF50452}.Release|x64.Build.0 = Release|x64
+		{0B5ACBC6-91C2-4340-8E17-561F3BF50452}.Release|x86.ActiveCfg = Release|Win32
+		{0B5ACBC6-91C2-4340-8E17-561F3BF50452}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
