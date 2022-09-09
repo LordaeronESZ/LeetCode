@@ -763,6 +763,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1592重新排列单词间�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0667优美的排列II", "0667优美的排列II\0667优美的排列II.vcxproj", "{E9DA09D1-24B9-477F-B486-585D2861BCF4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1598文件夹操作日志搜集器", "1598文件夹操作日志搜集器\1598文件夹操作日志搜集器.vcxproj", "{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3811,6 +3813,14 @@ Global
 		{E9DA09D1-24B9-477F-B486-585D2861BCF4}.Release|x64.Build.0 = Release|x64
 		{E9DA09D1-24B9-477F-B486-585D2861BCF4}.Release|x86.ActiveCfg = Release|Win32
 		{E9DA09D1-24B9-477F-B486-585D2861BCF4}.Release|x86.Build.0 = Release|Win32
+		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Debug|x64.ActiveCfg = Debug|x64
+		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Debug|x64.Build.0 = Debug|x64
+		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Debug|x86.Build.0 = Debug|Win32
+		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Release|x64.ActiveCfg = Release|x64
+		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Release|x64.Build.0 = Release|x64
+		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Release|x86.ActiveCfg = Release|Win32
+		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
