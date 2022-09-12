@@ -765,6 +765,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0667优美的排列II", "06
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1598文件夹操作日志搜集器", "1598文件夹操作日志搜集器\1598文件夹操作日志搜集器.vcxproj", "{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1608特殊数组的特征值", "1608特殊数组的特征值\1608特殊数组的特征值.vcxproj", "{A41F747F-73A7-4C44-8F71-17029B36B179}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3821,6 +3823,14 @@ Global
 		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Release|x64.Build.0 = Release|x64
 		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Release|x86.ActiveCfg = Release|Win32
 		{16D657F3-F4C2-4E10-AC0E-E225FCC826DC}.Release|x86.Build.0 = Release|Win32
+		{A41F747F-73A7-4C44-8F71-17029B36B179}.Debug|x64.ActiveCfg = Debug|x64
+		{A41F747F-73A7-4C44-8F71-17029B36B179}.Debug|x64.Build.0 = Debug|x64
+		{A41F747F-73A7-4C44-8F71-17029B36B179}.Debug|x86.ActiveCfg = Debug|Win32
+		{A41F747F-73A7-4C44-8F71-17029B36B179}.Debug|x86.Build.0 = Debug|Win32
+		{A41F747F-73A7-4C44-8F71-17029B36B179}.Release|x64.ActiveCfg = Release|x64
+		{A41F747F-73A7-4C44-8F71-17029B36B179}.Release|x64.Build.0 = Release|x64
+		{A41F747F-73A7-4C44-8F71-17029B36B179}.Release|x86.ActiveCfg = Release|Win32
+		{A41F747F-73A7-4C44-8F71-17029B36B179}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
