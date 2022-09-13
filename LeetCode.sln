@@ -767,6 +767,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1598文件夹操作日志�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1608特殊数组的特征值", "1608特殊数组的特征值\1608特殊数组的特征值.vcxproj", "{A41F747F-73A7-4C44-8F71-17029B36B179}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0670最大交换", "0670最大交换\0670最大交换.vcxproj", "{BF8697B1-412B-436B-B914-8A301A469C39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3831,6 +3833,14 @@ Global
 		{A41F747F-73A7-4C44-8F71-17029B36B179}.Release|x64.Build.0 = Release|x64
 		{A41F747F-73A7-4C44-8F71-17029B36B179}.Release|x86.ActiveCfg = Release|Win32
 		{A41F747F-73A7-4C44-8F71-17029B36B179}.Release|x86.Build.0 = Release|Win32
+		{BF8697B1-412B-436B-B914-8A301A469C39}.Debug|x64.ActiveCfg = Debug|x64
+		{BF8697B1-412B-436B-B914-8A301A469C39}.Debug|x64.Build.0 = Debug|x64
+		{BF8697B1-412B-436B-B914-8A301A469C39}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF8697B1-412B-436B-B914-8A301A469C39}.Debug|x86.Build.0 = Debug|Win32
+		{BF8697B1-412B-436B-B914-8A301A469C39}.Release|x64.ActiveCfg = Release|x64
+		{BF8697B1-412B-436B-B914-8A301A469C39}.Release|x64.Build.0 = Release|x64
+		{BF8697B1-412B-436B-B914-8A301A469C39}.Release|x86.ActiveCfg = Release|Win32
+		{BF8697B1-412B-436B-B914-8A301A469C39}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
