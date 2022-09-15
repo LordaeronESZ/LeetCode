@@ -771,6 +771,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0670最大交换", "0670最
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1619删除某些元素后的数组均值", "1619删除某些元素后的数组均值\1619删除某些元素后的数组均值.vcxproj", "{4A0C92BE-E1E5-47EC-BD4A-3BA7C68E1EE1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0672灯泡开关II", "0672灯泡开关II\0672灯泡开关II.vcxproj", "{8859C899-A313-427F-B2C7-C40156EAC5AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3851,6 +3853,14 @@ Global
 		{4A0C92BE-E1E5-47EC-BD4A-3BA7C68E1EE1}.Release|x64.Build.0 = Release|x64
 		{4A0C92BE-E1E5-47EC-BD4A-3BA7C68E1EE1}.Release|x86.ActiveCfg = Release|Win32
 		{4A0C92BE-E1E5-47EC-BD4A-3BA7C68E1EE1}.Release|x86.Build.0 = Release|Win32
+		{8859C899-A313-427F-B2C7-C40156EAC5AD}.Debug|x64.ActiveCfg = Debug|x64
+		{8859C899-A313-427F-B2C7-C40156EAC5AD}.Debug|x64.Build.0 = Debug|x64
+		{8859C899-A313-427F-B2C7-C40156EAC5AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{8859C899-A313-427F-B2C7-C40156EAC5AD}.Debug|x86.Build.0 = Debug|Win32
+		{8859C899-A313-427F-B2C7-C40156EAC5AD}.Release|x64.ActiveCfg = Release|x64
+		{8859C899-A313-427F-B2C7-C40156EAC5AD}.Release|x64.Build.0 = Release|x64
+		{8859C899-A313-427F-B2C7-C40156EAC5AD}.Release|x86.ActiveCfg = Release|Win32
+		{8859C899-A313-427F-B2C7-C40156EAC5AD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
