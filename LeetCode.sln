@@ -777,6 +777,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1624两个相同字符之�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2317操作后的最大异或和", "2317操作后的最大异或和\2317操作后的最大异或和.vcxproj", "{C4FFA989-05F8-43BA-B89A-5409D09088B4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1606按照频率让数组升序排序", "1606按照频率让数组升序排序\1606按照频率让数组升序排序.vcxproj", "{2E8943D4-4FF5-4F0D-A522-AB2989E6071F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3881,6 +3883,14 @@ Global
 		{C4FFA989-05F8-43BA-B89A-5409D09088B4}.Release|x64.Build.0 = Release|x64
 		{C4FFA989-05F8-43BA-B89A-5409D09088B4}.Release|x86.ActiveCfg = Release|Win32
 		{C4FFA989-05F8-43BA-B89A-5409D09088B4}.Release|x86.Build.0 = Release|Win32
+		{2E8943D4-4FF5-4F0D-A522-AB2989E6071F}.Debug|x64.ActiveCfg = Debug|x64
+		{2E8943D4-4FF5-4F0D-A522-AB2989E6071F}.Debug|x64.Build.0 = Debug|x64
+		{2E8943D4-4FF5-4F0D-A522-AB2989E6071F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E8943D4-4FF5-4F0D-A522-AB2989E6071F}.Debug|x86.Build.0 = Debug|Win32
+		{2E8943D4-4FF5-4F0D-A522-AB2989E6071F}.Release|x64.ActiveCfg = Release|x64
+		{2E8943D4-4FF5-4F0D-A522-AB2989E6071F}.Release|x64.Build.0 = Release|x64
+		{2E8943D4-4FF5-4F0D-A522-AB2989E6071F}.Release|x86.ActiveCfg = Release|Win32
+		{2E8943D4-4FF5-4F0D-A522-AB2989E6071F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
