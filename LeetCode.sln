@@ -781,6 +781,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1606按照频率让数组�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0698划分为K个相等的子集", "0698划分为K个相等的子集\0698划分为K个相等的子集.vcxproj", "{EDD9B538-D4E4-4305-BA6D-00769DDCB59A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1640能否连接形成数组", "1640能否连接形成数组\1640能否连接形成数组.vcxproj", "{AD0FF6EF-7C0D-4342-B384-8C77ADCEE04C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3901,6 +3903,14 @@ Global
 		{EDD9B538-D4E4-4305-BA6D-00769DDCB59A}.Release|x64.Build.0 = Release|x64
 		{EDD9B538-D4E4-4305-BA6D-00769DDCB59A}.Release|x86.ActiveCfg = Release|Win32
 		{EDD9B538-D4E4-4305-BA6D-00769DDCB59A}.Release|x86.Build.0 = Release|Win32
+		{AD0FF6EF-7C0D-4342-B384-8C77ADCEE04C}.Debug|x64.ActiveCfg = Debug|x64
+		{AD0FF6EF-7C0D-4342-B384-8C77ADCEE04C}.Debug|x64.Build.0 = Debug|x64
+		{AD0FF6EF-7C0D-4342-B384-8C77ADCEE04C}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD0FF6EF-7C0D-4342-B384-8C77ADCEE04C}.Debug|x86.Build.0 = Debug|Win32
+		{AD0FF6EF-7C0D-4342-B384-8C77ADCEE04C}.Release|x64.ActiveCfg = Release|x64
+		{AD0FF6EF-7C0D-4342-B384-8C77ADCEE04C}.Release|x64.Build.0 = Release|x64
+		{AD0FF6EF-7C0D-4342-B384-8C77ADCEE04C}.Release|x86.ActiveCfg = Release|Win32
+		{AD0FF6EF-7C0D-4342-B384-8C77ADCEE04C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
