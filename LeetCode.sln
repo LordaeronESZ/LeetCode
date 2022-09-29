@@ -787,7 +787,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1652拆炸弹", "1652拆炸
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0788旋转数字", "0788旋转数字\0788旋转数字.vcxproj", "{39322631-C0DC-462B-866F-EED2CC3FB446}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题01.02判断是否为字符重排", "面试题01.02判断是否为字符重排\面试题01.02判断是否为字符重排.vcxproj", "{8C7E85F2-A83A-4A69-B6EF-1185DA2F2F76}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题01.02.判断是否为字符重排", "面试题01.02判断是否为字符重排\面试题01.02判断是否为字符重排.vcxproj", "{8C7E85F2-A83A-4A69-B6EF-1185DA2F2F76}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题01.09.字符串轮转", "面试题01.09.字符串轮转\面试题01.09.字符串轮转.vcxproj", "{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -3941,6 +3943,14 @@ Global
 		{8C7E85F2-A83A-4A69-B6EF-1185DA2F2F76}.Release|x64.Build.0 = Release|x64
 		{8C7E85F2-A83A-4A69-B6EF-1185DA2F2F76}.Release|x86.ActiveCfg = Release|Win32
 		{8C7E85F2-A83A-4A69-B6EF-1185DA2F2F76}.Release|x86.Build.0 = Release|Win32
+		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Debug|x64.ActiveCfg = Debug|x64
+		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Debug|x64.Build.0 = Debug|x64
+		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Debug|x86.Build.0 = Debug|Win32
+		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Release|x64.ActiveCfg = Release|x64
+		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Release|x64.Build.0 = Release|x64
+		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Release|x86.ActiveCfg = Release|Win32
+		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
