@@ -791,6 +791,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题01.02.判断是否
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题01.09.字符串轮转", "面试题01.09.字符串轮转\面试题01.09.字符串轮转.vcxproj", "{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题01.08.零矩阵", "面试题01.08.零矩阵\面试题01.08.零矩阵.vcxproj", "{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3951,6 +3953,14 @@ Global
 		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Release|x64.Build.0 = Release|x64
 		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Release|x86.ActiveCfg = Release|Win32
 		{AFF7DAE9-4862-47D3-A5D7-9FD2871267DD}.Release|x86.Build.0 = Release|Win32
+		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Debug|x64.ActiveCfg = Debug|x64
+		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Debug|x64.Build.0 = Debug|x64
+		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Debug|x86.Build.0 = Debug|Win32
+		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Release|x64.ActiveCfg = Release|x64
+		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Release|x64.Build.0 = Release|x64
+		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Release|x86.ActiveCfg = Release|Win32
+		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
