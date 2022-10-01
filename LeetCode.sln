@@ -793,6 +793,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题01.09.字符串轮
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题01.08.零矩阵", "面试题01.08.零矩阵\面试题01.08.零矩阵.vcxproj", "{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1694重新格式化电话号码", "1694重新格式化电话号码\1694重新格式化电话号码.vcxproj", "{40E31182-BCD7-4A74-B7AA-F1922F4A4554}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3961,6 +3963,14 @@ Global
 		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Release|x64.Build.0 = Release|x64
 		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Release|x86.ActiveCfg = Release|Win32
 		{A407AB5F-E8D7-44BE-B22F-79C2075FBAAF}.Release|x86.Build.0 = Release|Win32
+		{40E31182-BCD7-4A74-B7AA-F1922F4A4554}.Debug|x64.ActiveCfg = Debug|x64
+		{40E31182-BCD7-4A74-B7AA-F1922F4A4554}.Debug|x64.Build.0 = Debug|x64
+		{40E31182-BCD7-4A74-B7AA-F1922F4A4554}.Debug|x86.ActiveCfg = Debug|Win32
+		{40E31182-BCD7-4A74-B7AA-F1922F4A4554}.Debug|x86.Build.0 = Debug|Win32
+		{40E31182-BCD7-4A74-B7AA-F1922F4A4554}.Release|x64.ActiveCfg = Release|x64
+		{40E31182-BCD7-4A74-B7AA-F1922F4A4554}.Release|x64.Build.0 = Release|x64
+		{40E31182-BCD7-4A74-B7AA-F1922F4A4554}.Release|x86.ActiveCfg = Release|Win32
+		{40E31182-BCD7-4A74-B7AA-F1922F4A4554}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
