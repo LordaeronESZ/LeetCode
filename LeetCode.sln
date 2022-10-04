@@ -797,6 +797,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1694重新格式化电话�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0777在LR字符串中交换相邻字符", "0777在LR字符串中交换相邻字符\0777在LR字符串中交换相邻字符.vcxproj", "{929A505B-53A6-4981-B8FE-6D4118A9B773}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0921使括号有效的最少添加", "0921使括号有效的最少添加\0921使括号有效的最少添加.vcxproj", "{E666F7BE-0C45-4405-8956-A7FA6B6DD168}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3981,6 +3983,14 @@ Global
 		{929A505B-53A6-4981-B8FE-6D4118A9B773}.Release|x64.Build.0 = Release|x64
 		{929A505B-53A6-4981-B8FE-6D4118A9B773}.Release|x86.ActiveCfg = Release|Win32
 		{929A505B-53A6-4981-B8FE-6D4118A9B773}.Release|x86.Build.0 = Release|Win32
+		{E666F7BE-0C45-4405-8956-A7FA6B6DD168}.Debug|x64.ActiveCfg = Debug|x64
+		{E666F7BE-0C45-4405-8956-A7FA6B6DD168}.Debug|x64.Build.0 = Debug|x64
+		{E666F7BE-0C45-4405-8956-A7FA6B6DD168}.Debug|x86.ActiveCfg = Debug|Win32
+		{E666F7BE-0C45-4405-8956-A7FA6B6DD168}.Debug|x86.Build.0 = Debug|Win32
+		{E666F7BE-0C45-4405-8956-A7FA6B6DD168}.Release|x64.ActiveCfg = Release|x64
+		{E666F7BE-0C45-4405-8956-A7FA6B6DD168}.Release|x64.Build.0 = Release|x64
+		{E666F7BE-0C45-4405-8956-A7FA6B6DD168}.Release|x86.ActiveCfg = Release|Win32
+		{E666F7BE-0C45-4405-8956-A7FA6B6DD168}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
