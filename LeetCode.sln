@@ -803,6 +803,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0811子域名访问计数",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1800最大升序子数组和", "1800最大升序子数组和\1800最大升序子数组和.vcxproj", "{E9A24932-2C7D-46C9-B9A9-56D61899EFE9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1790仅执行一次字符串交换能否使字符串相等", "1790仅执行一次字符串交换能否使字符串相等\1790仅执行一次字符串交换能否使字符串相等.vcxproj", "{0D2560D3-1A09-4586-B390-701A978F1E28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -4011,6 +4013,14 @@ Global
 		{E9A24932-2C7D-46C9-B9A9-56D61899EFE9}.Release|x64.Build.0 = Release|x64
 		{E9A24932-2C7D-46C9-B9A9-56D61899EFE9}.Release|x86.ActiveCfg = Release|Win32
 		{E9A24932-2C7D-46C9-B9A9-56D61899EFE9}.Release|x86.Build.0 = Release|Win32
+		{0D2560D3-1A09-4586-B390-701A978F1E28}.Debug|x64.ActiveCfg = Debug|x64
+		{0D2560D3-1A09-4586-B390-701A978F1E28}.Debug|x64.Build.0 = Debug|x64
+		{0D2560D3-1A09-4586-B390-701A978F1E28}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D2560D3-1A09-4586-B390-701A978F1E28}.Debug|x86.Build.0 = Debug|Win32
+		{0D2560D3-1A09-4586-B390-701A978F1E28}.Release|x64.ActiveCfg = Release|x64
+		{0D2560D3-1A09-4586-B390-701A978F1E28}.Release|x64.Build.0 = Release|x64
+		{0D2560D3-1A09-4586-B390-701A978F1E28}.Release|x86.ActiveCfg = Release|Win32
+		{0D2560D3-1A09-4586-B390-701A978F1E28}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
