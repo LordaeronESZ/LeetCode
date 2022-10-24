@@ -811,6 +811,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1700无法吃午餐的学�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1768交替合并字符串", "1768交替合并字符串\1768交替合并字符串.vcxproj", "{773C74C9-9AD6-4931-AFDA-0944C7169F11}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0915分割数组", "0915分割数组\0915分割数组.vcxproj", "{0F87B357-3F80-4B34-9022-7F2718A218F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -4051,6 +4053,14 @@ Global
 		{773C74C9-9AD6-4931-AFDA-0944C7169F11}.Release|x64.Build.0 = Release|x64
 		{773C74C9-9AD6-4931-AFDA-0944C7169F11}.Release|x86.ActiveCfg = Release|Win32
 		{773C74C9-9AD6-4931-AFDA-0944C7169F11}.Release|x86.Build.0 = Release|Win32
+		{0F87B357-3F80-4B34-9022-7F2718A218F3}.Debug|x64.ActiveCfg = Debug|x64
+		{0F87B357-3F80-4B34-9022-7F2718A218F3}.Debug|x64.Build.0 = Debug|x64
+		{0F87B357-3F80-4B34-9022-7F2718A218F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F87B357-3F80-4B34-9022-7F2718A218F3}.Debug|x86.Build.0 = Debug|Win32
+		{0F87B357-3F80-4B34-9022-7F2718A218F3}.Release|x64.ActiveCfg = Release|x64
+		{0F87B357-3F80-4B34-9022-7F2718A218F3}.Release|x64.Build.0 = Release|x64
+		{0F87B357-3F80-4B34-9022-7F2718A218F3}.Release|x86.ActiveCfg = Release|Win32
+		{0F87B357-3F80-4B34-9022-7F2718A218F3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
